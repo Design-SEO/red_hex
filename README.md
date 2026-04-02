@@ -1,1 +1,1 @@
-![Preview](./Preview_Design.PNG)
+![Preview](./Preview_Design.webp)

@@ -13,9 +13,9 @@ $pageSlug = detectPageSlug(__FILE__);
         <?php generateMetaTags($pageSlug); ?>
         <?php generateHreflangTags(); ?>
         <?php generateJsonLd($pageSlug); ?>
-        <link rel="icon" href="/assets/images/cropped-logo-2-1-32x32.png" sizes="32x32" />
-        <link rel="icon" href="/assets/images/cropped-logo-2-1-192x192.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="/assets/images/cropped-logo-2-1-180x180.png" />
+        <link rel="icon" href="/assets/images/cropped-logo-2-1-32x32.webp" sizes="32x32" />
+        <link rel="icon" href="/assets/images/cropped-logo-2-1-192x192.webp" sizes="192x192" />
+        <link rel="apple-touch-icon" href="/assets/images/cropped-logo-2-1-180x180.webp" />
         <link rel="stylesheet" href="/assets/css/7dd16efcaed0dcd402485e2673788c57.css">
         <link rel="stylesheet" href="/assets/css/030f73c45257861d373a56b3b7cbd2a0.css">
         <link rel="stylesheet" href="/assets/css/069d067256f29b0a1145d6eacdbc25bb.css">
@@ -597,50 +597,50 @@ $pageSlug = detectPageSlug(__FILE__);
                                         </div>
                                         <div class="logotypes logotypes__js">
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_1.png" width="120" height="25" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_1.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_2.png" width="158" height="26" decoding="async" alt="exchange CapitureX"
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_1.webp" width="120" height="25" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_1.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_2.webp" width="158" height="26" decoding="async" alt="exchange CapitureX"
                                                     data-src="/assets/images/exchange_logo2.png" />
                                             </div>
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_3.png" width="120" height="20" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_3.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_4.png" width="120" height="35" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_4.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_3.webp" width="120" height="20" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_3.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_4.webp" width="120" height="35" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_4.webp" />
                                             </div>
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_10.png" width="104" height="37" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_10.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_6.png" width="120" height="29" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_6.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_10.webp" width="104" height="37" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_10.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_6.webp" width="120" height="29" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_6.webp" />
                                             </div>
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_7.png" width="111" height="27" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_7.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_8.png" width="66" height="32" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_8.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_7.webp" width="111" height="27" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_7.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_8.webp" width="66" height="32" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_8.webp" />
                                             </div>
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_9.png" width="120" height="53" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_9.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_5.png" width="120" height="20" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_5.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_9.webp" width="120" height="53" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_9.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_5.webp" width="120" height="20" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_5.webp" />
                                             </div>
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_11.png" width="97" height="34" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_11.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_12.png" width="114" height="34" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_12.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_11.webp" width="97" height="34" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_11.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_12.webp" width="114" height="34" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_12.webp" />
                                             </div>
                                             <div class="flex flex__js">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_13.png" width="121" height="16" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_13.png" />
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_14.png" width="120" height="28" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_14.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_13.webp" width="121" height="16" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_13.webp" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_14.webp" width="120" height="28" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_14.webp" />
                                             </div>
                                             <div class="d-flex flex-direction-row align-items-center justify-content-center">
-                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_15.png" width="120" height="23" decoding="async" alt="exchange CapitureX"
-                                                    data-src="/assets/images/exchange_logo_15.png" />
+                                                <img data-lazyloaded="1" src="/assets/images/exchange_logo_15.webp" width="120" height="23" decoding="async" alt="exchange CapitureX"
+                                                    data-src="/assets/images/exchange_logo_15.webp" />
                                             </div>
                                         </div>
                                     </div>

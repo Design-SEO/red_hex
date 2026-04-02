@@ -13,9 +13,9 @@ $pageSlug = detectPageSlug(__FILE__);
         <?php generateMetaTags($pageSlug); ?>
         <?php generateHreflangTags(); ?>
         <?php generateJsonLd($pageSlug); ?>
-        <link rel="icon" href="/assets/images/cropped-logo-2-1-32x32.png" sizes="32x32" />
-        <link rel="icon" href="/assets/images/cropped-logo-2-1-192x192.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="/assets/images/cropped-logo-2-1-180x180.png" />
+        <link rel="icon" href="/assets/images/cropped-logo-2-1-32x32.webp" sizes="32x32" />
+        <link rel="icon" href="/assets/images/cropped-logo-2-1-192x192.webp" sizes="192x192" />
+        <link rel="apple-touch-icon" href="/assets/images/cropped-logo-2-1-180x180.webp" />
         <link rel="stylesheet" href="/assets/css/7dd16efcaed0dcd402485e2673788c57.css">
         <link rel="stylesheet" href="/assets/css/030f73c45257861d373a56b3b7cbd2a0.css">
         <link rel="stylesheet" href="/assets/css/069d067256f29b0a1145d6eacdbc25bb.css">
@@ -567,7 +567,7 @@ $pageSlug = detectPageSlug(__FILE__);
                                                 </div>
                                             </div>
                                             <div class="img">
-                                                <img data-lazyloaded="1" src="/assets/images/about-us-ico.png" decoding="async" data-src="/assets/images/about-us-ico.png" alt="Image">
+                                                <img data-lazyloaded="1" src="/assets/images/about-us-ico.webp" decoding="async" data-src="/assets/images/about-us-ico.webp" alt="Image">
                                                 <div class="image_wrapper"></div>
                                             </div>
                                         </div>
