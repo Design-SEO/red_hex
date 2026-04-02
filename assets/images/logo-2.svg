@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px"
+     y="0px" viewBox="0 0 700 165" style="enable-background:new 0 0 700 165;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F53838;}
+	.text-style {
+		font-family: Arial, sans-serif; /* Выберите шрифт */
+		font-size: 80px; /* Размер текста */
+		font-weight: 500; /* Размер текста */
+		fill: #000000; /* Цвет текста, совпадает с .st0 */
+		text-anchor: left; /* Центрирование по горизонтали */
+	}
+</style>
+    <g>
+        <path class="st0" d="M22.5,38.4l-1.7,62.1l53.9,32.5l55.6-29.6l1.7-62.1L78.1,8.8L22.5,38.4z M75.7,97.9L52.3,83.8l0.7-27   l24.2-12.9l23.4,14.1l-0.7,27L75.7,97.9z M71.4,21.6v16.2L44.9,51.9l-0.4,15.4H30l0.6-24L71.4,21.6L71.4,21.6z M29.8,75.5h14.5   l-0.3,12.8l27.5,16.6v16.7L29.2,96.1L29.8,75.5z M79.6,121.2v-16.2L108,90l0.4-14.5h14.5l-0.6,23.1L79.6,121.2L79.6,121.2z    M123.1,67.3h-14.5l0.4-13.7L79.6,35.9V19.3l44,26.5L123.1,67.3L123.1,67.3z"></path>
+		<!-- Добавляем текст CapitureX -->
+		<text x="140" y="100" class="text-style">CapitureX</text>
+    </g>
+</svg>
