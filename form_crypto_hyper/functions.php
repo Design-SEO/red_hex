@@ -227,7 +227,7 @@ function sendNewLeadGrid($first_name, $last_name, $email, $area_code, $phone, $c
         'aff_sub2' => $baer ?? 'SEO',
         'aff_sub3' => strtoupper(urldecode($response['lang'])),
         'aff_sub4' => 'SEO',
-        'aff_sub9' => 'red_hex',
+        'aff_sub9' => 'red_octagon',
         'aff_sub10' => 'SEO',
         'source' => 'Facebook',
         '_ip' => get_client_ip(),
