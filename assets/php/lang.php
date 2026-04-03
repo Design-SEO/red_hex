@@ -137,7 +137,7 @@ return [
         'footer_desc' => 'Users acknowledge that investing in cryptocurrencies involves significant risks. Prices are extremely volatile and can change rapidly, leading to potential substantial losses. We recommend that users carefully consider their financial situation and risk tolerance before engaging in cryptocurrency investments. This platform does not provide investment, financial, legal, tax, or any other form of advice. Any information or analysis provided is for informational purposes only and should not be construed as an offer or solicitation for the purchase or sale of cryptocurrencies. The platform operates in compliance with applicable laws and regulations. However, cryptocurrency regulations may vary by jurisdiction and are subject to change. Users are responsible for ensuring that their use of the platform complies with local laws and regulations. There are no guarantees of profit or protection from losses in cryptocurrency investments. Past performance is not indicative of future results. Users should be aware that they may lose all of their invested capital. While we strive to provide a reliable and secure investment platform, we do not guarantee uninterrupted service, and we are not liable for any losses resulting from technical issues, market conditions, or other factors beyond our control.',
         'about_join_h1' => 'Join Us',
         'about_join_desc' => 'Become part of our growing community! Whether you&#8217;re a newbie or an experienced investor, CapitureX is your trusted partner when it comes to exploring the dynamic world of cryptocurrencies. Discover smarter and easier ways to grow your wealth with CapitureX.',
-        'about_form_desc' => '*By entering your personal details here and clicking the button you agree and accept the Website <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms &amp; Conditions</a>.<br>*Your personal information may be shared with third parties providing investment services as provided in the <a href="/privacy">Website privacy policy.</a>',
+        'about_form_desc' => '*By entering your personal details here and clicking the button you agree and accept the Website <a href="./privacy">Privacy Policy</a> and <a href="./terms">Terms &amp; Conditions</a>.<br>*Your personal information may be shared with third parties providing investment services as provided in the <a href="./privacy">Website privacy policy.</a>',
         'about_h1_mission' => 'Our Mission',
         'about_mission_1_title' => 'Empowering Investors',
         'about_mission_1_desc' => 'Our goal is to make investing accessible to everyone, from beginners to experienced investors.',
@@ -177,7 +177,7 @@ return [
                 <p><strong>Who do we share information with?</strong> We may share your information with third-party service providers, affiliates, or business partners for specific purposes, like analytics or marketing.</p>
                 <p><strong>How do we keep your information safe?</strong> We use technical and organizational measures to protect your data, but no system is 100% secure.</p>
                 <p><strong>What are your rights?</strong> You may have rights to access, correct, or delete your personal information, depending on applicable laws.</p>
-                <p><strong>How to exercise your rights?</strong> Contact us at <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> or by email at support@myalphaguide.com.</p>
+                <p><strong>How to exercise your rights?</strong> Contact us at <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> or by email at support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>TABLE OF CONTENTS</strong></p>
                 <p><a href="#infocollect">1. WHAT INFORMATION DO WE COLLECT?</a></p>
                 <p><a href="#infouse">2. HOW DO WE PROCESS YOUR INFORMATION?</a></p>
@@ -221,7 +221,7 @@ return [
                 <p><em>We may update this notice to comply with laws.</em></p>
                 <p>We may update this notice, with changes effective upon posting, and will notify you of material changes.</p>
                 <p><strong>10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</strong></p>
-                <p>Email us at support@myalphaguide.com or visit <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for questions about this notice.</p>
+                <p>Email us at support@myalphaguide.com or visit <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for questions about this notice.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Terms and Conditions</h1>
@@ -230,7 +230,7 @@ return [
         <p>Our email: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. The Website provides information about third-party platforms for investments (the <strong>“Services”</strong>).</p>
         <p>1.3. These terms of use (the <strong>“Terms”</strong>) govern your use of the Website or Services. By using the Website, you agree to these Terms, which form a legally binding agreement. If you disagree, you must stop using the Website.</p>
-        <p>These Terms include our Privacy Policy, and by agreeing to these Terms, you also accept our Privacy Policy (available <a href="/privacy">here</a>).</p>
+        <p>These Terms include our Privacy Policy, and by agreeing to these Terms, you also accept our Privacy Policy (available <a href="./privacy">here</a>).</p>
         <h2 class="wp-block-heading">2. Eligibility</h2>
         <p>2.1. You may use the Website if you:</p>
         <p>2.1.1. Are at least 18 years old;</p>
@@ -328,13 +328,13 @@ return [
         'index_h1' => 'Lanza tu viaje de riqueza cripto con CapitureX',
         'index_form' => 'Únete gratis a CapitureX y comienza a invertir en cripto',
         'index_disclaimer' => '<p class="gb-headline gb-headline-25aef701 gb-headline-text">
-                        <strong>Aviso importante</strong>: <a data-id="9" data-type="page" href="/">CapitureX</a> te empodera para explorar el apasionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones cripto conllevan riesgos y los rendimientos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de entrar en los mercados cripto.</p>
+                        <strong>Aviso importante</strong>: <a data-id="9" data-type="page" href="./">CapitureX</a> te empodera para explorar el apasionante mundo de las criptomonedas como Bitcoin y Ethereum con herramientas avanzadas y brokers confiables. Las inversiones cripto conllevan riesgos y los rendimientos no están garantizados. Nuestra plataforma ofrece recursos educativos para guiar tus decisiones, no asesoramiento financiero. Recomendamos una investigación exhaustiva antes de entrar en los mercados cripto.</p>
                     <p class="gb-headline gb-headline-289c9730 gb-headline-text">CapitureX no es un asesor financiero ni proporciona orientación de inversión personalizada. Tú eres responsable de tus decisiones de trading cripto y debes cumplir con las regulaciones financieras locales. Nuestra plataforma gratuita, respaldada por asociaciones con brokers conformes a la normativa, te conecta con oportunidades cripto seguras, y podemos ganar comisiones por referencias.</p>
                     <p class="gb-headline gb-headline-f76cb6df gb-headline-text">Te conectamos con brokers confiables y conformes a la normativa para garantizar una experiencia de inversión cripto segura y fiable. Aunque pueden aplicarse algunas regulaciones regionales, CapitureX está diseñado para ayudarte a navegar el mercado cripto con confianza con un depósito mínimo de solo 230 €.</p>',
         'index_why_opt' => '<h2 class="gb-headline gb-headline-9be12089 gb-headline-text">
                         Por qué CapitureX es tu plataforma definitiva de inversión cripto
                     </h2>
-                    <p><a data-id="9" data-type="page" href="/"><strong>CapitureX</strong></a> es tu puerta de entrada confiable a brokers conformes a la normativa, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Tanto si eres nuevo en cripto como si eres un trader experimentado, nuestra plataforma garantiza protección contra estafas con socios verificados y análisis impulsados por IA.</p>
+                    <p><a data-id="9" data-type="page" href="./"><strong>CapitureX</strong></a> es tu puerta de entrada confiable a brokers conformes a la normativa, ofreciendo herramientas de vanguardia para destacar en la inversión en criptomonedas, desde Bitcoin hasta altcoins como Ethereum, Ripple y Cardano. Tanto si eres nuevo en cripto como si eres un trader experimentado, nuestra plataforma garantiza protección contra estafas con socios verificados y análisis impulsados por IA.</p>
                     <p>El mercado de criptomonedas, valorado entre 900.000 y 1.000.000 millones de euros, se encuentra en una fase estable, ofreciendo una oportunidad ideal para invertir en activos digitales como Bitcoin, la piedra angular de la riqueza cripto. No esperes: las barreras de entrada son bajas ahora, pero esta ventana puede cerrarse pronto.</p>
                     <p>En 2021, el mercado cripto alcanzó los 2,9 billones de euros, con Bitcoin llegando a 67.000 € y altcoins como Ethereum generando enormes rendimientos para los primeros inversores.</p>
                     <p>Los expertos predicen otro auge cripto, impulsado por la adopción global y avances en blockchain. Con las herramientas opcionales de IA de CapitureX con 99.4% de precisión, estás equipado para capturar altos rendimientos en este mercado dinámico.</p>',
@@ -498,7 +498,7 @@ return [
         'privacy_content' => '<div class="gb-container gb-container-4160cb6f">
                     <p>Última actualización: 23 de febrero de 2024</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Quiénes somos</h2>
-                    <p>Nuestro sitio web: <a href="/">https://neriscapisphere.org/</a>.</p>
+                    <p>Nuestro sitio web: <a href="./">https://neriscapisphere.org/</a>.</p>
                     <h2 class="wp-block-heading has-global-color-9-color has-text-color">Comentarios</h2>
                     <p>Cuando dejas comentarios, recopilamos datos del formulario, tu dirección IP y detalles del navegador para proteger contra spam en nuestra comunidad cripto.</p>
                     <p>Un hash anónimo de tu correo puede enviarse a Gravatar para verificar uso. Su política de privacidad: https://automattic.com/privacy/. Los comentarios aprobados muestran tu foto de perfil públicamente.</p>
@@ -540,14 +540,14 @@ return [
                     <p>Servicio: Nuestro sitio web para inversión cripto.</p>
                     <p>Términos y Condiciones: Acuerdo que rige tu uso de nuestra plataforma cripto.</p>
                     <p>Redes sociales de terceros: Contenido o servicios externos en nuestra plataforma.</p>
-                    <p>Sitio web: CapitureX en <a data-id="9" data-type="page" href="/">esta dirección</a>.</p>
+                    <p>Sitio web: CapitureX en <a data-id="9" data-type="page" href="./">esta dirección</a>.</p>
                     <p>Tú: El usuario o entidad que accede a nuestros servicios cripto.</p>
                     <h2 class="gb-headline gb-headline-a42ca7f0 gb-headline-text"><strong>Acuerdo</strong></h2>
                     <p>Estos términos rigen tu uso de nuestra plataforma cripto, delineando tus derechos y responsabilidades para trading de Bitcoin y altcoins.</p>
                     <p>El acceso requiere aceptar estos términos, aplicables a todos los usuarios cripto.</p>
                     <p>Si no estás de acuerdo, no uses nuestros servicios cripto.</p>
                     <p>Debes tener más de 18 años para usar nuestra plataforma para inversión cripto.</p>
-                    <p>Nuestra <a href="/privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios cripto.</p>
+                    <p>Nuestra <a href="./privacy">Política de Privacidad</a> detalla la recolección y protección de datos para usuarios cripto.</p>
                     <h2 class="gb-headline gb-headline-cd0291ec gb-headline-text"><strong>Tu cuenta cripto</strong></h2>
                     <p>Proporciona información precisa y actual al registrarte para trading cripto. Inexactitudes pueden llevar a terminación de cuenta.</p>
                     <p>Protege tu contraseña y reporta inmediatamente cualquier uso no autorizado para salvaguardar tus inversiones cripto.</p>
@@ -588,7 +588,7 @@ return [
                     <h2 class="gb-headline gb-headline-5fe35776 gb-headline-text"><strong>Contáctanos</strong></h2>
                     <p>Para preguntas sobre estos términos, contáctanos:</p>
                     <p>Por correo: <a href="mailto:info@neriscapisphere.org">info@neriscapisphere.org</a></p>
-                    <p>A través de nuestra página <a data-id="42" data-type="page" href="/contact">Contáctanos</a>.</p>
+                    <p>A través de nuestra página <a data-id="42" data-type="page" href="./contact">Contáctanos</a>.</p>
                 </div>'
     ],
     'it' => [
@@ -728,7 +728,7 @@ return [
         'footer_desc' => 'Gli utenti riconoscono che investire in criptovalute comporta rischi significativi. I prezzi sono estremamente volatili e possono cambiare rapidamente, portando a potenziali perdite sostanziali. Consigliamo agli utenti di considerare attentamente la loro situazione finanziaria e la tolleranza al rischio prima di impegnarsi in investimenti in criptovalute. Questa piattaforma non fornisce consigli di investimento, finanziari, legali, fiscali o di qualsiasi altro tipo. Qualsiasi informazione o analisi fornita è solo a scopo informativo e non deve essere interpretata come un\'offerta o sollecitazione per l\'acquisto o la vendita di criptovalute. La piattaforma opera in conformità con le leggi e i regolamenti applicabili. Tuttavia, le normative sulle criptovalute possono variare per giurisdizione e sono soggette a cambiamenti. Gli utenti sono responsabili di garantire che il loro uso della piattaforma sia conforme alle leggi e ai regolamenti locali. Non ci sono garanzie di profitto o protezione dalle perdite negli investimenti in criptovalute. Le prestazioni passate non sono indicative dei risultati futuri. Gli utenti devono essere consapevoli che potrebbero perdere tutto il capitale investito. Sebbene ci sforziamo di fornire una piattaforma di investimenti affidabile e sicura, non garantiamo un servizio ininterrotto e non siamo responsabili per eventuali perdite derivanti da problemi tecnici, condizioni di mercato o altri fattori al di fuori del nostro controllo.',
         'about_join_h1' => 'Unisciti a Noi',
         'about_join_desc' => 'Entra a far parte della nostra comunità in crescita! Che tu sia un principiante o un investitore esperto, CapitureX è il tuo partner fidato quando si tratta di esplorare il mondo dinamico delle criptovalute. Scopri modi più intelligenti e facili per far crescere la tua ricchezza con CapitureX.',
-        'about_form_desc' => '*Inserendo i tuoi dati personali qui e cliccando sul pulsante accetti e accetti la <a href="/privacy">Politica sulla Privacy</a> e i <a href="/terms">Termini & Condizioni</a> del Sito Web.<br>*I tuoi dati personali possono essere condivisi con terzi che forniscono servizi di investimento come previsto nella <a href="/privacy">Politica sulla privacy del sito web.</a>',
+        'about_form_desc' => '*Inserendo i tuoi dati personali qui e cliccando sul pulsante accetti e accetti la <a href="./privacy">Politica sulla Privacy</a> e i <a href="./terms">Termini & Condizioni</a> del Sito Web.<br>*I tuoi dati personali possono essere condivisi con terzi che forniscono servizi di investimento come previsto nella <a href="./privacy">Politica sulla privacy del sito web.</a>',
         'about_h1_mission' => 'La Nostra Missione',
         'about_mission_1_title' => 'Empowerment degli Investitori',
         'about_mission_1_desc' => 'Il nostro obiettivo è rendere gli investimenti accessibili a tutti, dai principianti agli investitori esperti.',
@@ -768,7 +768,7 @@ return [
                 <p><strong>Con chi condividiamo le informazioni?</strong> Possiamo condividere le tue informazioni con fornitori di servizi terzi, affiliati o partner commerciali per scopi specifici, come analytics o marketing.</p>
                 <p><strong>Come manteniamo sicure le tue informazioni?</strong> Usiamo misure tecniche e organizzative per proteggere i tuoi dati, ma nessun sistema è sicuro al 100%.</p>
                 <p><strong>Quali sono i tuoi diritti?</strong> Puoi avere diritti di accesso, correzione o cancellazione delle tue informazioni personali, a seconda delle leggi applicabili.</p>
-                <p><strong>Come esercitare i tuoi diritti?</strong> Contattaci a <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o via email a support@myalphaguide.com.</p>
+                <p><strong>Come esercitare i tuoi diritti?</strong> Contattaci a <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o via email a support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>INDICE DEI CONTENUTI</strong></p>
                 <p><a href="#infocollect">1. QUALI INFORMAZIONI RACCOGLIAMO?</a></p>
                 <p><a href="#infouse">2. COME ELABORIAMO LE TUE INFORMAZIONI?</a></p>
@@ -812,7 +812,7 @@ return [
                 <p><em>Possiamo aggiornare questa informativa per conformarci alle leggi.</em></p>
                 <p>Possiamo aggiornare questa informativa, con modifiche efficaci al momento della pubblicazione, e ti informeremo di cambiamenti materiali.</p>
                 <p><strong>10. COME PUOI CONTATTARCI RIGUARDO A QUESTA INFORMATIVA?</strong></p>
-                <p>Inviaci un\'email a support@myalphaguide.com o visita <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> per domande su questa informativa.</p>
+                <p>Inviaci un\'email a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> per domande su questa informativa.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Termini e Condizioni</h1>
@@ -821,7 +821,7 @@ return [
         <p>La nostra email: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. Il Sito Web fornisce informazioni su piattaforme di terze parti per investimenti (i <strong>“Servizi”</strong>).</p>
         <p>1.3. Questi termini di utilizzo (i <strong>“Termini”</strong>) regolano l\'uso del Sito Web o dei Servizi. Utilizzando il Sito Web, accetti questi Termini, che costituiscono un accordo legalmente vincolante. Se non sei d\'accordo, devi interrompere l\'uso del Sito Web.</p>
-        <p>Questi Termini includono la nostra Politica sulla Privacy e, accettando questi Termini, accetti anche la nostra Politica sulla Privacy (disponibile <a href="/privacy">qui</a>).</p>
+        <p>Questi Termini includono la nostra Politica sulla Privacy e, accettando questi Termini, accetti anche la nostra Politica sulla Privacy (disponibile <a href="./privacy">qui</a>).</p>
         <h2 class="wp-block-heading">2. Idoneità</h2>
         <p>2.1. Puoi usare il Sito Web se:</p>
         <p>2.1.1. Hai almeno 18 anni;</p>
@@ -1006,7 +1006,7 @@ return [
         'footer_desc' => 'Les utilisateurs reconnaissent que investir dans les cryptomonnaies comporte des risques significatifs. Les prix sont extrêmement volatils et peuvent changer rapidement, entraînant des pertes substantielles potentielles. Nous recommandons aux utilisateurs de considérer attentivement leur situation financière et leur tolérance au risque avant de s\'engager dans des investissements en cryptomonnaies. Cette plateforme ne fournit pas de conseils d\'investissement, financiers, juridiques, fiscaux ou de toute autre forme. Toute information ou analyse fournie est à titre informatif uniquement et ne doit pas être interprétée comme une offre ou une sollicitation pour l\'achat ou la vente de cryptomonnaies. La plateforme opère en conformité avec les lois et réglementations applicables. Cependant, les réglementations sur les cryptomonnaies peuvent varier selon la juridiction et sont sujettes à changement. Les utilisateurs sont responsables de s\'assurer que leur utilisation de la plateforme est conforme aux lois et réglementations locales. Il n\'y a aucune garantie de profit ou de protection contre les pertes dans les investissements en cryptomonnaies. Les performances passées ne sont pas indicatives des résultats futurs. Les utilisateurs doivent être conscients qu\'ils peuvent perdre tout le capital investi. Bien que nous nous efforcions de fournir une plateforme d\'investissement fiable et sécurisée, nous ne garantissons pas un service ininterrompu et ne sommes pas responsables des pertes résultant de problèmes techniques, de conditions de marché ou d\'autres facteurs hors de notre contrôle.',
         'about_join_h1' => 'Rejoignez-Nous',
         'about_join_desc' => 'Faites partie de notre communauté en croissance ! Que vous soyez un débutant ou un investisseur expérimenté, CapitureX est votre partenaire de confiance lorsqu\'il s\'agit d\'explorer le monde dynamique des cryptomonnaies. Découvrez des façons plus intelligentes et plus faciles de faire croître votre richesse avec CapitureX.',
-        'about_form_desc' => '*En entrant vos données personnelles ici et en cliquant sur le bouton, vous acceptez et acceptez la <a href="/privacy">Politique de Confidentialité</a> et les <a href="/terms">Termes & Conditions</a> du Site Web.<br>*Vos données personnelles peuvent être partagées avec des tiers fournissant des services d\'investissement comme prévu dans la <a href="/privacy">Politique de confidentialité du site web.</a>',
+        'about_form_desc' => '*En entrant vos données personnelles ici et en cliquant sur le bouton, vous acceptez et acceptez la <a href="./privacy">Politique de Confidentialité</a> et les <a href="./terms">Termes & Conditions</a> du Site Web.<br>*Vos données personnelles peuvent être partagées avec des tiers fournissant des services d\'investissement comme prévu dans la <a href="./privacy">Politique de confidentialité du site web.</a>',
         'about_h1_mission' => 'Notre Mission',
         'about_mission_1_title' => 'Autonomiser les Investisseurs',
         'about_mission_1_desc' => 'Notre objectif est de rendre les investissements accessibles à tous, des débutants aux investisseurs expérimentés.',
@@ -1046,7 +1046,7 @@ return [
                 <p><strong>Avec qui partageons-nous les informations ?</strong> Nous pouvons partager vos informations avec des fournisseurs de services tiers, des affiliés ou des partenaires commerciaux à des fins spécifiques, comme l\'analyse ou le marketing.</p>
                 <p><strong>Comment gardons-nous vos informations en sécurité ?</strong> Nous utilisons des mesures techniques et organisationnelles pour protéger vos données, mais aucun système n\'est 100 % sécurisé.</p>
                 <p><strong>Quels sont vos droits ?</strong> Vous pouvez avoir des droits d\'accès, de correction ou de suppression de vos informations personnelles, selon les lois applicables.</p>
-                <p><strong>Comment exercer vos droits ?</strong> Contactez-nous à <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> ou par email à support@myalphaguide.com.</p>
+                <p><strong>Comment exercer vos droits ?</strong> Contactez-nous à <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> ou par email à support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>TABLE DES MATIÈRES</strong></p>
                 <p><a href="#infocollect">1. QUELLES INFORMATIONS COLLECTONS-NOUS ?</a></p>
                 <p><a href="#infouse">2. COMMENT TRAITONS-NOUS VOS INFORMATIONS ?</a></p>
@@ -1090,7 +1090,7 @@ return [
                 <p><em>Nous pouvons mettre à jour cette notice pour nous conformer aux lois.</em></p>
                 <p>Nous pouvons mettre à jour cette notice, avec des modifications effectives au moment de la publication, et nous vous informerons des changements matériels.</p>
                 <p><strong>10. COMMENT POUVEZ-VOUS NOUS CONTACTER CONCERNANT CETTE NOTICE ?</strong></p>
-                <p>Envoyez-nous un email à support@myalphaguide.com ou visitez <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> pour des questions sur cette notice.</p>
+                <p>Envoyez-nous un email à support@myalphaguide.com ou visitez <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> pour des questions sur cette notice.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Termes et Conditions</h1>
@@ -1099,7 +1099,7 @@ return [
         <p>Notre email : <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. Le Site Web fournit des informations sur des plateformes tierces pour les investissements (les <strong>« Services »</strong>).</p>
         <p>1.3. Ces conditions d\'utilisation (les <strong>« Termes »</strong>) régissent votre utilisation du Site Web ou des Services. En utilisant le Site Web, vous acceptez ces Termes, qui forment un accord légalement contraignant. Si vous n\'êtes pas d\'accord, vous devez arrêter d\'utiliser le Site Web.</p>
-        <p>Ces Termes incluent notre Politique de Confidentialité et, en acceptant ces Termes, vous acceptez également notre Politique de Confidentialité (disponible <a href="/privacy">ici</a>).</p>
+        <p>Ces Termes incluent notre Politique de Confidentialité et, en acceptant ces Termes, vous acceptez également notre Politique de Confidentialité (disponible <a href="./privacy">ici</a>).</p>
         <h2 class="wp-block-heading">2. Éligibilité</h2>
         <p>2.1. Vous pouvez utiliser le Site Web si vous :</p>
         <p>2.1.1. Avez au moins 18 ans ;</p>
@@ -1284,7 +1284,7 @@ return [
         'footer_desc' => 'Die Nutzer erkennen an, dass Investitionen in Kryptowährungen erhebliche Risiken bergen. Die Preise sind extrem volatil und können sich schnell ändern, was zu potenziell erheblichen Verlusten führen kann. Wir empfehlen den Nutzern, ihre finanzielle Situation und Risikobereitschaft sorgfältig zu prüfen, bevor sie sich auf Kryptowährungsinvestitionen einlassen. Diese Plattform bietet keine Investitions-, Finanz-, Rechts-, Steuer- oder sonstige Beratung. Alle bereitgestellten Informationen oder Analysen dienen nur zu Informationszwecken und sollten nicht als Angebot oder Aufforderung zum Kauf oder Verkauf von Kryptowährungen verstanden werden. Die Plattform arbeitet in Übereinstimmung mit den geltenden Gesetzen und Vorschriften. Die Kryptowährungsregulierungen können jedoch je nach Gerichtsbarkeit variieren und Änderungen unterliegen. Die Nutzer sind dafür verantwortlich, sicherzustellen, dass ihre Nutzung der Plattform den lokalen Gesetzen und Vorschriften entspricht. Es gibt keine Garantien für Gewinne oder Schutz vor Verlusten bei Kryptowährungsinvestitionen. Die vergangene Performance ist kein Indikator für zukünftige Ergebnisse. Die Nutzer sollten sich bewusst sein, dass sie ihr gesamtes investiertes Kapital verlieren können. Obwohl wir uns bemühen, eine zuverlässige und sichere Investmentplattform bereitzustellen, garantieren wir keinen ununterbrochenen Service und sind nicht haftbar für Verluste, die aus technischen Problemen, Marktbedingungen oder anderen Faktoren außerhalb unserer Kontrolle resultieren.',
         'about_join_h1' => 'Treten Sie bei',
         'about_join_desc' => 'Werden Sie Teil unserer wachsenden Gemeinschaft! Ob Sie Anfänger oder erfahrener Investor sind, CapitureX ist Ihr vertrauenswürdiger Partner, wenn es darum geht, die dynamische Welt der Kryptowährungen zu erkunden. Entdecken Sie klügere und einfachere Wege, Ihr Vermögen mit CapitureX zu steigern.',
-        'about_form_desc' => '*Indem Sie Ihre persönlichen Daten hier eingeben und auf den Button klicken, stimmen Sie der <a href="/privacy">Datenschutzrichtlinie</a> und den <a href="/terms">Allgemeinen Geschäftsbedingungen</a> des Websites zu und akzeptieren diese.<br>*Ihre persönlichen Daten können mit Dritten geteilt werden, die Investmentdienstleistungen erbringen, wie in der <a href="/privacy">Datenschutzrichtlinie der Website</a> vorgesehen.',
+        'about_form_desc' => '*Indem Sie Ihre persönlichen Daten hier eingeben und auf den Button klicken, stimmen Sie der <a href="./privacy">Datenschutzrichtlinie</a> und den <a href="./terms">Allgemeinen Geschäftsbedingungen</a> des Websites zu und akzeptieren diese.<br>*Ihre persönlichen Daten können mit Dritten geteilt werden, die Investmentdienstleistungen erbringen, wie in der <a href="./privacy">Datenschutzrichtlinie der Website</a> vorgesehen.',
         'about_h1_mission' => 'Unsere Mission',
         'about_mission_1_title' => 'Investoren stärken',
         'about_mission_1_desc' => 'Unser Ziel ist es, Investitionen für alle zugänglich zu machen, von Anfängern bis zu erfahrenen Investoren.',
@@ -1324,7 +1324,7 @@ return [
                 <p><strong>Mit wem teilen wir Informationen?</strong> Wir können Ihre Informationen mit Drittanbietern, Affiliates oder Geschäftspartnern für spezifische Zwecke teilen, wie Analyse oder Marketing.</p>
                 <p><strong>Wie halten wir Ihre Informationen sicher?</strong> Wir verwenden technische und organisatorische Maßnahmen, um Ihre Daten zu schützen, aber kein System ist 100 % sicher.</p>
                 <p><strong>Welche Rechte haben Sie?</strong> Sie können Rechte auf Zugriff, Korrektur oder Löschung Ihrer personenbezogenen Daten haben, je nach geltendem Recht.</p>
-                <p><strong>Wie üben Sie Ihre Rechte aus?</strong> Kontaktieren Sie uns unter <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> oder per E-Mail an support@myalphaguide.com.</p>
+                <p><strong>Wie üben Sie Ihre Rechte aus?</strong> Kontaktieren Sie uns unter <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> oder per E-Mail an support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>INHALTSVERZEICHNIS</strong></p>
                 <p><a href="#infocollect">1. WELCHE INFORMATIONEN SAMMELN WIR?</a></p>
                 <p><a href="#infouse">2. WIE VERARBEITEN WIR IHRE INFORMATIONEN?</a></p>
@@ -1368,7 +1368,7 @@ return [
                 <p><em>Wir können diese Notice aktualisieren, um Gesetzen zu entsprechen.</em></p>
                 <p>Wir können diese Notice aktualisieren, mit Änderungen wirksam bei der Veröffentlichung, und wir werden Sie über wesentliche Änderungen informieren.</p>
                 <p><strong>10. WIE KÖNNEN SIE UNS ZU DIESER NOTICE KONTAKTIEREN?</strong></p>
-                <p>Senden Sie uns eine E-Mail an support@myalphaguide.com oder besuchen Sie <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> für Fragen zu dieser Notice.</p>
+                <p>Senden Sie uns eine E-Mail an support@myalphaguide.com oder besuchen Sie <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> für Fragen zu dieser Notice.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Allgemeine Geschäftsbedingungen</h1>
@@ -1377,7 +1377,7 @@ return [
         <p>Unsere E-Mail: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. Die Website stellt Informationen über Drittplattformen für Investitionen zur Verfügung (die <strong>«Dienste»</strong>).</p>
         <p>1.3. Diese Nutzungsbedingungen (die <strong>«Bedingungen»</strong>) regeln Ihre Nutzung der Website oder der Dienste. Durch die Nutzung der Website stimmen Sie diesen Bedingungen zu, die einen rechtlich bindenden Vertrag darstellen. Wenn Sie nicht einverstanden sind, müssen Sie die Nutzung der Website einstellen.</p>
-        <p>Diese Bedingungen umfassen unsere Datenschutzrichtlinie, und durch die Zustimmung zu diesen Bedingungen akzeptieren Sie auch unsere Datenschutzrichtlinie (verfügbar <a href="/privacy">hier</a>).</p>
+        <p>Diese Bedingungen umfassen unsere Datenschutzrichtlinie, und durch die Zustimmung zu diesen Bedingungen akzeptieren Sie auch unsere Datenschutzrichtlinie (verfügbar <a href="./privacy">hier</a>).</p>
         <h2 class="wp-block-heading">2. Berechtigung</h2>
         <p>2.1. Sie dürfen die Website nutzen, wenn Sie:</p>
         <p>2.1.1. Mindestens 18 Jahre alt sind;</p>
@@ -1562,7 +1562,7 @@ return [
         'footer_desc' => 'Brukere anerkjenner at investering i kryptovaluta innebærer betydelige risikoer. Prisene er ekstremt volatile og kan endre seg raskt, noe som kan føre til potensielt betydelige tap. Vi anbefaler at brukere nøye vurderer sin økonomiske situasjon og risikotoleranse før de engasjerer seg i kryptoinvesteringer. Denne plattformen gir ikke investerings-, finans-, juridisk, skattemessig eller annen form for råd. All informasjon eller analyse som gis er kun til informasjonsformål og bør ikke tolkes som et tilbud eller en oppfordring til kjøp eller salg av kryptovaluta. Plattformen opererer i samsvar med gjeldende lover og forskrifter. Imidlertid kan kryptoreguleringer variere etter jurisdiksjon og er underlagt endringer. Brukere er ansvarlige for å sikre at deres bruk av plattformen er i samsvar med lokale lover og forskrifter. Det er ingen garantier for fortjeneste eller beskyttelse mot tap i kryptoinvesteringer. Tidligere resultater er ikke en indikasjon på fremtidige resultater. Brukere bør være klar over at de kan miste hele det investerte kapitalet. Selv om vi streber etter å tilby en pålitelig og sikker investeringsplattform, garanterer vi ikke uavbrutt service, og vi er ikke ansvarlige for tap som følge av tekniske problemer, markedsforhold eller andre faktorer utenfor vår kontroll.',
         'about_join_h1' => 'Bli med oss',
         'about_join_desc' => 'Bli en del av vår voksende fellesskap! Enten du er nybegynner eller erfaren investor, er CapitureX din pålitelige partner når det gjelder å utforske den dynamiske verdenen av kryptovaluta. Oppdag smartere og enklere måter å vokse din formue på med CapitureX.',
-        'about_form_desc' => '*Ved å legge inn dine personlige opplysninger her og klikke på knappen godtar og aksepterer du Nettstedets <a href="/privacy">Personvernpolicy</a> og <a href="/terms">Vilkår & Betingelser</a>.<br>*Dine personlige opplysninger kan deles med tredjeparter som tilbyr investeringstjenester som beskrevet i <a href="/privacy">Nettstedets personvernpolicy.</a>',
+        'about_form_desc' => '*Ved å legge inn dine personlige opplysninger her og klikke på knappen godtar og aksepterer du Nettstedets <a href="./privacy">Personvernpolicy</a> og <a href="./terms">Vilkår & Betingelser</a>.<br>*Dine personlige opplysninger kan deles med tredjeparter som tilbyr investeringstjenester som beskrevet i <a href="./privacy">Nettstedets personvernpolicy.</a>',
         'about_h1_mission' => 'Vår Misjon',
         'about_mission_1_title' => 'Styrke Investorer',
         'about_mission_1_desc' => 'Vårt mål er å gjøre investeringer tilgjengelige for alle, fra nybegynnere til erfarne investorer.',
@@ -1602,7 +1602,7 @@ return [
                 <p><strong>Hvem deler vi informasjon med?</strong> Vi kan dele din informasjon med tredjeparts tjenesteleverandører, tilknyttede selskaper eller forretningspartnere for spesifikke formål, som analyse eller markedsføring.</p>
                 <p><strong>Hvordan holder vi din informasjon trygg?</strong> Vi bruker tekniske og organisatoriske tiltak for å beskytte dine data, men intet system er 100 % sikkert.</p>
                 <p><strong>Hvilke rettigheter har du?</strong> Du kan ha rettigheter til å få tilgang, korrigere eller slette dine personopplysninger, avhengig av gjeldende lover.</p>
-                <p><strong>Hvordan utøve dine rettigheter?</strong> Kontakt oss på <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> eller via e-post på support@myalphaguide.com.</p>
+                <p><strong>Hvordan utøve dine rettigheter?</strong> Kontakt oss på <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> eller via e-post på support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>INNHOLDSFORTEGNELSE</strong></p>
                 <p><a href="#infocollect">1. HVILKEN INFORMASJON SAMLER VI INN?</a></p>
                 <p><a href="#infouse">2. HVORDAN BEHANDLER VI DIN INFORMASJON?</a></p>
@@ -1646,7 +1646,7 @@ return [
                 <p><em>Vi kan oppdatere denne erklæringen for å overholde lover.</em></p>
                 <p>Vi kan oppdatere denne erklæringen, med endringer gjeldende ved publisering, og vi vil varsle deg om vesentlige endringer.</p>
                 <p><strong>10. HVORDAN KAN DU KONTAKTE OSS OM DENNE ERKLÆRINGEN?</strong></p>
-                <p>Send oss en e-post til support@myalphaguide.com eller besøk <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for spørsmål om denne erklæringen.</p>
+                <p>Send oss en e-post til support@myalphaguide.com eller besøk <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for spørsmål om denne erklæringen.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Vilkår og Betingelser</h1>
@@ -1655,7 +1655,7 @@ return [
         <p>Vår e-post: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. Nettstedet gir informasjon om tredjepartsplattformer for investeringer (the <strong>«Services»</strong>).</p>
         <p>1.3. Disse bruksvilkårene (the <strong>«Terms»</strong>) styrer din bruk av nettstedet eller tjenestene. Ved å bruke nettstedet godtar du disse vilkårene, som utgjør en juridisk bindende avtale. Hvis du er uenig, må du slutte å bruke nettstedet.</p>
-        <p>Disse vilkårene inkluderer vår personvernpolicy, og ved å godta disse vilkårene godtar du også vår personvernpolicy (tilgjengelig <a href="/privacy">her</a>).</p>
+        <p>Disse vilkårene inkluderer vår personvernpolicy, og ved å godta disse vilkårene godtar du også vår personvernpolicy (tilgjengelig <a href="./privacy">her</a>).</p>
         <h2 class="wp-block-heading">2. Kvalifisering</h2>
         <p>2.1. Du kan bruke nettstedet hvis du:</p>
         <p>2.1.1. Er minst 18 år gammel;</p>
@@ -1840,7 +1840,7 @@ return [
         'footer_desc' => 'ユーザーは、暗号通貨への投資には重大なリスクが伴うことを認識しています。価格は非常に変動し、急速に変化する可能性があり、潜在的に大きな損失につながります。ユーザーは、暗号通貨投資に参加する前に財務状況とリスク許容度を慎重に検討することをお勧めします。このプラットフォームは投資、財務、法律、税務、またはその他の形のアドバイスを提供しません。提供される情報や分析は情報提供のみを目的としており、暗号通貨の購入または販売のオファーや勧誘として解釈されるべきではありません。プラットフォームは適用される法律および規制に準拠して運営されています。ただし、暗号通貨規制は管轄区域によって異なり、変更される可能性があります。ユーザーは、プラットフォームの使用が地方法律および規制に準拠していることを確保する責任があります。暗号通貨投資に利益の保証や損失からの保護はありません。過去のパフォーマンスは将来の結果を示すものではありません。ユーザーは、投資した資本全体を失う可能性があることを認識すべきです。私たちは信頼性が高く安全な投資プラットフォームを提供するよう努めていますが、サービスの中断を保証せず、技術的問題、市場状況、または当社の制御を超えたその他の要因による損失について責任を負いません。',
         'about_join_h1' => '参加しましょう',
         'about_join_desc' => '私たちの成長するコミュニティの一員になりましょう！初心者であろうと経験豊富な投資家であろうと、CapitureXは暗号通貨のダイナミックな世界を探索する際の信頼できるパートナーです。CapitureXで富を成長させるより賢く簡単な方法を発見してください。',
-        'about_form_desc' => '*ここに個人情報を入力し、ボタンをクリックすることで、ウェブサイトの <a href="/privacy">プライバシーポリシー</a> と <a href="/terms">利用規約</a> に同意し、受け入れます。<br>*あなたの個人情報は、<a href="/privacy">ウェブサイトのプライバシーポリシー</a> で規定されている投資サービスを提供する第三者と共有される可能性があります。',
+        'about_form_desc' => '*ここに個人情報を入力し、ボタンをクリックすることで、ウェブサイトの <a href="./privacy">プライバシーポリシー</a> と <a href="./terms">利用規約</a> に同意し、受け入れます。<br>*あなたの個人情報は、<a href="./privacy">ウェブサイトのプライバシーポリシー</a> で規定されている投資サービスを提供する第三者と共有される可能性があります。',
         'about_h1_mission' => '私たちの使命',
         'about_mission_1_title' => '投資家をエンパワー',
         'about_mission_1_desc' => '私たちの目標は、初心者から経験豊富な投資家まで、すべての人が投資できるようにすることです。',
@@ -1880,7 +1880,7 @@ return [
                 <p><strong>情報を誰と共有しますか？</strong> 分析やマーケティングなどの特定の目的で、第三者サービスプロバイダー、関連会社、またはビジネスパートナーとあなたの情報を共有する場合があります。</p>
                 <p><strong>あなたの情報をどのように安全に保ちますか？</strong> データを保護するための技術的および組織的な対策を使用しますが、システムは100%安全ではありません。</p>
                 <p><strong>あなたの権利は何ですか？</strong> 適用される法律によっては、個人情報へのアクセス、修正、または削除の権利がある場合があります。</p>
-                <p><strong>権利を行使するには？</strong> <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> または support@myalphaguide.com にメールで連絡してください。</p>
+                <p><strong>権利を行使するには？</strong> <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> または support@myalphaguide.com にメールで連絡してください。</p>
                 <p id="infocollect"><strong>目次</strong></p>
                 <p><a href="#infocollect">1. どのような情報を収集しますか？</a></p>
                 <p><a href="#infouse">2. あなたの情報をどのように処理しますか？</a></p>
@@ -1924,7 +1924,7 @@ return [
                 <p><em>法律に準拠するためにこの通知を更新する場合があります。</em></p>
                 <p>この通知を更新し、変更は掲載時に有効になり、重要な変更については通知します。</p>
                 <p><strong>10. この通知についてどのように連絡できますか？</strong></p>
-                <p>support@myalphaguide.com にメールを送信するか、 <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> を訪れてこの通知に関する質問をしてください。</p>
+                <p>support@myalphaguide.com にメールを送信するか、 <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> を訪れてこの通知に関する質問をしてください。</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">利用規約</h1>
@@ -1933,7 +1933,7 @@ return [
         <p>私たちのメール: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. ウェブサイトは投資のための第三者プラットフォームに関する情報を提供します（<strong>「サービス」</strong>）。</p>
         <p>1.3. これらの利用規約（<strong>「規約」</strong>）は、ウェブサイトまたはサービスの使用を規制します。ウェブサイトを使用することで、これらの規約に同意します。これは法的拘束力のある契約を形成します。同意しない場合は、ウェブサイトの使用を停止しなければなりません。</p>
-        <p>これらの規約には私たちのプライバシーポリシーが含まれ、これらの規約に同意することで、私たちのプライバシーポリシー（<a href="/privacy">ここ</a>で利用可能）も受け入れます。</p>
+        <p>これらの規約には私たちのプライバシーポリシーが含まれ、これらの規約に同意することで、私たちのプライバシーポリシー（<a href="./privacy">ここ</a>で利用可能）も受け入れます。</p>
         <h2 class="wp-block-heading">2. 資格</h2>
         <p>2.1. あなたは以下の条件を満たす場合にウェブサイトを使用できます：</p>
         <p>2.1.1. 少なくとも18歳以上であること；</p>
@@ -2118,7 +2118,7 @@ return [
         'footer_desc' => 'Los usuarios reconocen que invertir en criptomonedas conlleva riesgos significativos. Los precios son extremadamente volátiles y pueden cambiar rápidamente, lo que puede resultar en pérdidas sustanciales. Recomendamos que los usuarios consideren cuidadosamente su situación financiera y tolerancia al riesgo antes de participar en inversiones en criptomonedas. Esta plataforma no proporciona asesoramiento en inversiones, financiero, legal, fiscal ni de ningún otro tipo. Cualquier información o análisis proporcionado es solo para fines informativos y no debe interpretarse como una oferta o solicitud para la compra o venta de criptomonedas. La plataforma opera en cumplimiento con las leyes y regulaciones aplicables. Sin embargo, las regulaciones de criptomonedas pueden variar según la jurisdicción y están sujetas a cambios. Los usuarios son responsables de asegurarse de que su uso de la plataforma cumpla con las leyes y regulaciones locales. No hay garantías de ganancias o protección contra pérdidas en las inversiones en criptomonedas. El rendimiento pasado no es indicativo de resultados futuros. Los usuarios deben estar conscientes de que pueden perder todo su capital invertido. Aunque nos esforzamos por proporcionar una plataforma de inversiones confiable y segura, no garantizamos un servicio ininterrumpido y no somos responsables por pérdidas derivadas de problemas técnicos, condiciones del mercado u otros factores fuera de nuestro control.',
         'about_join_h1' => 'Únete a Nosotros',
         'about_join_desc' => '¡Forma parte de nuestra comunidad en crecimiento! Ya seas principiante o un inversionista experimentado, CapitureX es tu socio confiable para explorar el dinámico mundo de las criptomonedas. Descubre formas más inteligentes y fáciles de hacer crecer tu riqueza con CapitureX.',
-        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="/mx/privacy">Política de Privacidad</a> y los <a href="/mx/terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="/mx/privacy">Política de privacidad del sitio web.</a>',
+        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="./privacy">Política de Privacidad</a> y los <a href="./terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="./privacy">Política de privacidad del sitio web.</a>',
         'about_h1_mission' => 'Nuestra Misión',
         'about_mission_1_title' => 'Empoderando a los Inversionistas',
         'about_mission_1_desc' => 'Nuestro objetivo es hacer que las inversiones sean accesibles para todos, desde principiantes hasta inversionistas experimentados.',
@@ -2158,7 +2158,7 @@ return [
             <p><strong>¿Con quién compartimos tu información?</strong> Podemos compartir tu información con proveedores de servicios de terceros, afiliados o socios comerciales para fines específicos, como análisis o marketing.</p>
             <p><strong>¿Cómo mantenemos tu información segura?</strong> Usamos medidas técnicas y organizativas para proteger tus datos, pero ningún sistema es 100% seguro.</p>
             <p><strong>¿Cuáles son tus derechos?</strong> Puedes tener derechos para acceder, corregir o eliminar tu información personal, dependiendo de las leyes aplicables.</p>
-            <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="/mx/contact" rel="noreferrer noopener">https://myalphaguide.com/mx/contact/</a> o por correo en support@myalphaguide.com.</p>
+            <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o por correo en support@myalphaguide.com.</p>
             <p id="infocollect"><strong>TABLA DE CONTENIDOS</strong></p>
             <p><a href="#infocollect">1. ¿QUÉ INFORMACIÓN RECOLECTAMOS?</a></p>
             <p><a href="#infouse">2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?</a></p>
@@ -2202,7 +2202,7 @@ return [
             <p><em>Podemos actualizar este aviso para cumplir con las leyes.</em></p>
             <p>Podemos actualizar este aviso, con cambios efectivos al publicarse, y te notificaremos de cambios importantes.</p>
             <p><strong>10. ¿CÓMO PUEDES CONTACTARNOS SOBRE ESTE AVISO?</strong></p>
-            <p>Envíanos un correo a support@myalphaguide.com o visita <a href="/mx/contact" rel="noreferrer noopener">https://myalphaguide.com/mx/contact/</a> para preguntas sobre este aviso.</p>
+            <p>Envíanos un correo a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para preguntas sobre este aviso.</p>
         </div>',
         'terms_content' => '<div class="col-12">
     <h1 class="wp-block-heading">Términos y Condiciones</h1>
@@ -2211,7 +2211,7 @@ return [
     <p>Nuestro correo: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
     <p>1.2. El Sitio Web proporciona información sobre plataformas de terceros para inversiones (los <strong>“Servicios”</strong>).</p>
     <p>1.3. Estos términos de uso (los <strong>“Términos”</strong>) rigen tu uso del Sitio Web o los Servicios. Al usar el Sitio Web, aceptas estos Términos, que forman un acuerdo legalmente vinculante. Si no estás de acuerdo, debes dejar de usar el Sitio Web.</p>
-    <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="/mx/privacy">aquí</a>).</p>
+    <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="./privacy">aquí</a>).</p>
     <h2 class="wp-block-heading">2. Elegibilidad</h2>
     <p>2.1. Puedes usar el Sitio Web si:</p>
     <p>2.1.1. Tienes al menos 18 años;</p>
@@ -2395,7 +2395,7 @@ return [
         'footer_desc' => 'Los usuarios reconocen que invertir en criptomonedas conlleva riesgos significativos. Los precios son extremadamente volátiles y pueden cambiar rápidamente, lo que puede resultar en pérdidas sustanciales. Recomendamos que los usuarios consideren cuidadosamente su situación financiera y tolerancia al riesgo antes de participar en inversiones en criptomonedas. Esta plataforma no proporciona asesoramiento en inversiones, financiero, legal, fiscal ni de ningún otro tipo. Cualquier información o análisis proporcionado es solo para fines informativos y no debe interpretarse como una oferta o solicitud para la compra o venta de criptomonedas. La plataforma opera en cumplimiento con las leyes y regulaciones aplicables. Sin embargo, las regulaciones de criptomonedas pueden variar según la jurisdicción y están sujetas a cambios. Los usuarios son responsables de asegurarse de que su uso de la plataforma cumpla con las leyes y regulaciones locales. No hay garantías de ganancias o protección contra pérdidas en las inversiones en criptomonedas. El rendimiento pasado no es indicativo de resultados futuros. Los usuarios deben estar conscientes de que pueden perder todo su capital invertido. Aunque nos esforzamos por proporcionar una plataforma de inversiones confiable y segura, no garantizamos un servicio ininterrumpido y no somos responsables por pérdidas derivadas de problemas técnicos, condiciones del mercado u otros factores fuera de nuestro control.',
         'about_join_h1' => 'Únete a Nosotros',
         'about_join_desc' => '¡Forma parte de nuestra comunidad en crecimiento! Ya seas principiante o un inversionista experimentado, CapitureX es tu socio confiable para explorar el dinámico mundo de las criptomonedas. Descubre formas más inteligentes y fáciles de hacer crecer tu riqueza con CapitureX.',
-        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="/cr/privacy">Política de Privacidad</a> y los <a href="/cr/terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="/cr/privacy">Política de privacidad del sitio web.</a>',
+        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="./privacy">Política de Privacidad</a> y los <a href="./terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="./privacy">Política de privacidad del sitio web.</a>',
         'about_h1_mission' => 'Nuestra Misión',
         'about_mission_1_title' => 'Empoderando a los Inversionistas',
         'about_mission_1_desc' => 'Nuestro objetivo es hacer que las inversiones sean accesibles para todos, desde principiantes hasta inversionistas experimentados.',
@@ -2435,7 +2435,7 @@ return [
         <p><strong>¿Con quién compartimos tu información?</strong> Podemos compartir tu información con proveedores de servicios de terceros, afiliados o socios comerciales para fines específicos, como análisis o marketing.</p>
         <p><strong>¿Cómo mantenemos tu información segura?</strong> Usamos medidas técnicas y organizativas para proteger tus datos, pero ningún sistema es 100% seguro.</p>
         <p><strong>¿Cuáles son tus derechos?</strong> Puedes tener derechos para acceder, corregir o eliminar tu información personal, dependiendo de las leyes aplicables.</p>
-        <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="/cr/contact" rel="noreferrer noopener">https://myalphaguide.com/cr/contact/</a> o por correo en support@myalphaguide.com.</p>
+        <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o por correo en support@myalphaguide.com.</p>
         <p id="infocollect"><strong>TABLA DE CONTENIDOS</strong></p>
         <p><a href="#infocollect">1. ¿QUÉ INFORMACIÓN RECOLECTAMOS?</a></p>
         <p><a href="#infouse">2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?</a></p>
@@ -2479,7 +2479,7 @@ return [
         <p><em>Podemos actualizar este aviso para cumplir con las leyes.</em></p>
         <p>Podemos actualizar este aviso, con cambios efectivos al publicarse, y te notificaremos de cambios importantes.</p>
         <p><strong>10. ¿CÓMO PUEDES CONTACTARNOS SOBRE ESTE AVISO?</strong></p>
-        <p>Envíanos un correo a support@myalphaguide.com o visita <a href="/cr/contact" rel="noreferrer noopener">https://myalphaguide.com/cr/contact/</a> para preguntas sobre este aviso.</p>
+        <p>Envíanos un correo a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para preguntas sobre este aviso.</p>
     </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Términos y Condiciones</h1>
@@ -2488,7 +2488,7 @@ return [
         <p>Nuestro correo: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. El Sitio Web proporciona información sobre plataformas de terceros para inversiones (los <strong>“Servicios”</strong>).</p>
         <p>1.3. Estos términos de uso (los <strong>“Términos”</strong>) rigen tu uso del Sitio Web o los Servicios. Al usar el Sitio Web, aceptas estos Términos, que forman un acuerdo legalmente vinculante. Si no estás de acuerdo, debes dejar de usar el Sitio Web.</p>
-        <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="/cr/privacy">aquí</a>).</p>
+        <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="./privacy">aquí</a>).</p>
         <h2 class="wp-block-heading">2. Elegibilidad</h2>
         <p>2.1. Puedes usar el Sitio Web si:</p>
         <p>2.1.1. Tienes al menos 18 años;</p>
@@ -2672,7 +2672,7 @@ return [
         'footer_desc' => 'Los usuarios reconocen que invertir en criptomonedas implica riesgos significativos. Los precios son extremadamente volátiles y pueden cambiar rápidamente, lo que lleva a posibles pérdidas sustanciales. Recomendamos que los usuarios consideren cuidadosamente su situación financiera y tolerancia al riesgo antes de realizar inversiones en criptomonedas. Esta plataforma no proporciona asesoramiento en inversiones, financiero, legal, fiscal ni de ningún otro tipo. Cualquier información o análisis proporcionado es solo con fines informativos y no debe interpretarse como una oferta o solicitud para la compra o venta de criptomonedas. La plataforma opera en cumplimiento de las leyes y regulaciones aplicables. Sin embargo, las regulaciones de criptomonedas pueden variar según la jurisdicción y están sujetas a cambios. Los usuarios son responsables de garantizar que su uso de la plataforma cumpla con las leyes y regulaciones locales. No hay garantías de ganancias o protección contra pérdidas en las inversiones en criptomonedas. El rendimiento pasado no es indicativo de resultados futuros. Los usuarios deben ser conscientes de que pueden perder todo su capital invertido. Aunque nos esforzamos por proporcionar una plataforma de inversión confiable y segura, no garantizamos un servicio ininterrumpido y no somos responsables de las pérdidas derivadas de problemas técnicos, condiciones del mercado u otros factores fuera de nuestro control.',
         'about_join_h1' => 'Únete a Nosotros',
         'about_join_desc' => '¡Forma parte de nuestra creciente comunidad! Ya seas principiante o un inversor experimentado, CapitureX es tu socio confiable para explorar el dinámico mundo de las criptomonedas. Descubre formas más inteligentes y fáciles de hacer crecer tu riqueza con CapitureX.',
-        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="/co/privacy">Política de Privacidad</a> y los <a href="/co/terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que proporcionen servicios de inversión, según lo estipulado en la <a href="/co/privacy">Política de Privacidad del sitio web</a>.',
+        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="./privacy">Política de Privacidad</a> y los <a href="./terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que proporcionen servicios de inversión, según lo estipulado en la <a href="./privacy">Política de Privacidad del sitio web</a>.',
         'about_h1_mission' => 'Nuestra Misión',
         'about_mission_1_title' => 'Empoderando a los Inversores',
         'about_mission_1_desc' => 'Nuestro objetivo es hacer que las inversiones sean accesibles para todos, desde principiantes hasta inversores experimentados.',
@@ -2712,7 +2712,7 @@ return [
             <p><strong>¿Con quién compartimos tu información?</strong> Podemos compartir tu información con proveedores de servicios de terceros, afiliados o socios comerciales para fines específicos, como análisis o marketing.</p>
             <p><strong>¿Cómo mantenemos tu información segura?</strong> Usamos medidas técnicas y organizativas para proteger tus datos, pero ningún sistema es 100% seguro.</p>
             <p><strong>¿Cuáles son tus derechos?</strong> Puedes tener derechos para acceder, corregir o eliminar tu información personal, dependiendo de las leyes aplicables.</p>
-            <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="/co/contact" rel="noreferrer noopener">https://myalphaguide.com/co/contact/</a> o por correo en support@myalphaguide.com.</p>
+            <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o por correo en support@myalphaguide.com.</p>
             <p id="infocollect"><strong>TABLA DE CONTENIDOS</strong></p>
             <p><a href="#infocollect">1. ¿QUÉ INFORMACIÓN RECOLECTAMOS?</a></p>
             <p><a href="#infouse">2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?</a></p>
@@ -2753,7 +2753,7 @@ return [
             <p><em>Podemos actualizar este aviso para cumplir con las leyes.</em></p>
             <p>Podemos actualizar este aviso, con cambios efectivos al publicarse, y te notificaremos sobre cambios materiales.</p>
             <p><strong>9. ¿CÓMO PUEDES CONTACTARNOS SOBRE ESTE AVISO?</strong></p>
-            <p>Envíanos un correo a support@myalphaguide.com o visita <a href="/co/contact" rel="noreferrer noopener">https://myalphaguide.com/co/contact/</a> para preguntas sobre este aviso.</p>
+            <p>Envíanos un correo a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para preguntas sobre este aviso.</p>
         </div>',
         'terms_content' => '<div class="col-12">
     <h1 class="wp-block-heading">Términos y Condiciones</h1>
@@ -2762,7 +2762,7 @@ return [
     <p>Nuestro correo: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
     <p>1.2. El Sitio Web proporciona información sobre plataformas de terceros para inversiones (los <strong>“Servicios”</strong>).</p>
     <p>1.3. Estos términos de uso (los <strong>“Términos”</strong>) rigen tu uso del Sitio Web o los Servicios. Al usar el Sitio Web, aceptas estos Términos, que forman un acuerdo legalmente vinculante. Si no estás de acuerdo, debes dejar de usar el Sitio Web.</p>
-    <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="/co/privacy">aquí</a>).</p>
+    <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="./privacy">aquí</a>).</p>
     <h2 class="wp-block-heading">2. Elegibilidad</h2>
     <p>2.1. Puedes usar el Sitio Web si:</p>
     <p>2.1.1. Tienes al menos 18 años;</p>
@@ -2946,7 +2946,7 @@ return [
         'footer_desc' => 'Los usuarios reconocen que invertir en criptomonedas conlleva riesgos significativos. Los precios son extremadamente volátiles y pueden cambiar rápidamente, lo que puede resultar en pérdidas sustanciales. Recomendamos que los usuarios consideren cuidadosamente su situación financiera y tolerancia al riesgo antes de participar en inversiones en criptomonedas. Esta plataforma no proporciona asesoramiento en inversiones, financiero, legal, fiscal ni de ningún otro tipo. Cualquier información o análisis proporcionado es solo para fines informativos y no debe interpretarse como una oferta o solicitud para la compra o venta de criptomonedas. La plataforma opera en cumplimiento con las leyes y regulaciones aplicables. Sin embargo, las regulaciones de criptomonedas pueden variar según la jurisdicción y están sujetas a cambios. Los usuarios son responsables de asegurarse de que su uso de la plataforma cumpla con las leyes y regulaciones locales. No hay garantías de ganancias o protección contra pérdidas en las inversiones en criptomonedas. El rendimiento pasado no es indicativo de resultados futuros. Los usuarios deben estar conscientes de que pueden perder todo su capital invertido. Aunque nos esforzamos por proporcionar una plataforma de inversiones confiable y segura, no garantizamos un servicio ininterrumpido y no somos responsables por pérdidas derivadas de problemas técnicos, condiciones del mercado u otros factores fuera de nuestro control.',
         'about_join_h1' => 'Únete a Nosotros',
         'about_join_desc' => '¡Forma parte de nuestra comunidad en crecimiento! Ya seas principiante o un inversionista experimentado, CapitureX es tu socio confiable para explorar el dinámico mundo de las criptomonedas. Descubre formas más inteligentes y fáciles de hacer crecer tu riqueza con CapitureX.',
-        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="/pa/privacy">Política de Privacidad</a> y los <a href="/pa/terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="/pa/privacy">Política de privacidad del sitio web.</a>',
+        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="./privacy">Política de Privacidad</a> y los <a href="./terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="./privacy">Política de privacidad del sitio web.</a>',
         'about_h1_mission' => 'Nuestra Misión',
         'about_mission_1_title' => 'Empoderando a los Inversionistas',
         'about_mission_1_desc' => 'Nuestro objetivo es hacer que las inversiones sean accesibles para todos, desde principiantes hasta inversionistas experimentados.',
@@ -2986,7 +2986,7 @@ return [
           <p><strong>¿Con quién compartimos tu información?</strong> Podemos compartir tu información con proveedores de servicios de terceros, afiliados o socios comerciales para fines específicos, como análisis o marketing.</p>
           <p><strong>¿Cómo mantenemos tu información segura?</strong> Usamos medidas técnicas y organizativas para proteger tus datos, pero ningún sistema es 100% seguro.</p>
           <p><strong>¿Cuáles son tus derechos?</strong> Puedes tener derechos para acceder, corregir o eliminar tu información personal, dependiendo de las leyes aplicables.</p>
-          <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="/pa/contact" rel="noreferrer noopener">https://myalphaguide.com/pa/contact/</a> o por correo en support@myalphaguide.com.</p>
+          <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o por correo en support@myalphaguide.com.</p>
           <p id="infocollect"><strong>TABLA DE CONTENIDOS</strong></p>
           <p><a href="#infocollect">1. ¿QUÉ INFORMACIÓN RECOLECTAMOS?</a></p>
           <p><a href="#infouse">2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?</a></p>
@@ -3030,7 +3030,7 @@ return [
           <p><em>Podemos actualizar este aviso para cumplir con las leyes.</em></p>
           <p>Podemos actualizar este aviso, con cambios efectivos al publicarse, y te notificaremos de cambios importantes.</p>
           <p><strong>10. ¿CÓMO PUEDES CONTACTARNOS SOBRE ESTE AVISO?</strong></p>
-          <p>Envíanos un correo a support@myalphaguide.com o visita <a href="/pa/contact" rel="noreferrer noopener">https://myalphaguide.com/pa/contact/</a> para preguntas sobre este aviso.</p>
+          <p>Envíanos un correo a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para preguntas sobre este aviso.</p>
       </div>',
         'terms_content' => '<div class="col-12">
   <h1 class="wp-block-heading">Términos y Condiciones</h1>
@@ -3039,7 +3039,7 @@ return [
   <p>Nuestro correo: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
   <p>1.2. El Sitio Web proporciona información sobre plataformas de terceros para inversiones (los <strong>“Servicios”</strong>).</p>
   <p>1.3. Estos términos de uso (los <strong>“Términos”</strong>) rigen tu uso del Sitio Web o los Servicios. Al usar el Sitio Web, aceptas estos Términos, que forman un acuerdo legalmente vinculante. Si no estás de acuerdo, debes dejar de usar el Sitio Web.</p>
-  <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="/pa/privacy">aquí</a>).</p>
+  <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="./privacy">aquí</a>).</p>
   <h2 class="wp-block-heading">2. Elegibilidad</h2>
   <p>2.1. Puedes usar el Sitio Web si:</p>
   <p>2.1.1. Tienes al menos 18 años;</p>
@@ -3223,7 +3223,7 @@ return [
         'footer_desc' => 'Los usuarios reconocen que invertir en criptomonedas conlleva riesgos significativos. Los precios son extremadamente volátiles y pueden cambiar rápidamente, lo que puede resultar en pérdidas sustanciales. Recomendamos que los usuarios consideren cuidadosamente su situación financiera y tolerancia al riesgo antes de participar en inversiones en criptomonedas. Esta plataforma no proporciona asesoramiento financiero, legal, fiscal ni de ningún otro tipo. Cualquier información o análisis proporcionado es solo para fines informativos y no debe interpretarse como una oferta o solicitud para la compra o venta de criptomonedas. La plataforma opera en cumplimiento con las leyes y regulaciones aplicables. Sin embargo, las regulaciones de criptomonedas pueden variar según la jurisdicción y están sujetas a cambios. Los usuarios son responsables de asegurarse de que su uso de la plataforma cumpla con las leyes y regulaciones locales. No hay garantías de ganancias o protección contra pérdidas en las inversiones en criptomonedas. El rendimiento pasado no es indicativo de resultados futuros. Los usuarios deben estar conscientes de que pueden perder todo su capital invertido. Aunque nos esforzamos por proporcionar una plataforma de inversiones confiable y segura, no garantizamos un servicio ininterrumpido y no somos responsables por pérdidas derivadas de problemas técnicos, condiciones del mercado u otros factores fuera de nuestro control.',
         'about_join_h1' => 'Únete a Nosotros',
         'about_join_desc' => '¡Forma parte de nuestra comunidad en crecimiento! Ya seas principiante o un inversionista experimentado, CapitureX es tu socio confiable para explorar el dinámico mundo de las criptomonedas. Descubre formas más inteligentes y fáciles de hacer crecer tu riqueza con CapitureX.',
-        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="/hn/privacy">Política de Privacidad</a> y los <a href="/hn/terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="/hn/privacy">Política de privacidad del sitio web.</a>',
+        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="./privacy">Política de Privacidad</a> y los <a href="./terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que ofrecen servicios de inversión, como se indica en la <a href="./privacy">Política de privacidad del sitio web.</a>',
         'about_h1_mission' => 'Nuestra Misión',
         'about_mission_1_title' => 'Empoderando a los Inversionistas',
         'about_mission_1_desc' => 'Nuestro objetivo es hacer que las inversiones sean accesibles para todos, desde principiantes hasta inversionistas experimentados.',
@@ -3263,7 +3263,7 @@ return [
           <p><strong>¿Con quién compartimos tu información?</strong> Podemos compartir tu información con proveedores de servicios de terceros, afiliados o socios comerciales para fines específicos, como análisis o marketing.</p>
           <p><strong>¿Cómo mantenemos tu información segura?</strong> Usamos medidas técnicas y organizativas para proteger tus datos, pero ningún sistema es 100% seguro.</p>
           <p><strong>¿Cuáles son tus derechos?</strong> Puedes tener derechos para acceder, corregir o eliminar tu información personal, dependiendo de las leyes aplicables.</p>
-          <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="/hn/contact" rel="noreferrer noopener">https://myalphaguide.com/hn/contact/</a> o por correo en support@myalphaguide.com.</p>
+          <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o por correo en support@myalphaguide.com.</p>
           <p id="infocollect"><strong>TABLA DE CONTENIDOS</strong></p>
           <p><a href="#infocollect">1. ¿QUÉ INFORMACIÓN RECOLECTAMOS?</a></p>
           <p><a href="#infouse">2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?</a></p>
@@ -3307,7 +3307,7 @@ return [
           <p><em>Podemos actualizar este aviso para cumplir con las leyes.</em></p>
           <p>Podemos actualizar este aviso, con cambios efectivos al publicarse, y te notificaremos de cambios importantes.</p>
           <p><strong>10. ¿CÓMO PUEDES CONTACTARNOS SOBRE ESTE AVISO?</strong></p>
-          <p>Envíanos un correo a support@myalphaguide.com o visita <a href="/hn/contact" rel="noreferrer noopener">https://myalphaguide.com/hn/contact/</a> para preguntas sobre este aviso.</p>
+          <p>Envíanos un correo a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para preguntas sobre este aviso.</p>
       </div>',
         'terms_content' => '<div class="col-12">
   <h1 class="wp-block-heading">Términos y Condiciones</h1>
@@ -3316,7 +3316,7 @@ return [
   <p>Nuestro correo: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
   <p>1.2. El Sitio Web proporciona información sobre plataformas de terceros para inversiones (los <strong>“Servicios”</strong>).</p>
   <p>1.3. Estos términos de uso (los <strong>“Términos”</strong>) rigen tu uso del Sitio Web o los Servicios. Al usar el Sitio Web, aceptas estos Términos, que forman un acuerdo legalmente vinculante. Si no estás de acuerdo, debes dejar de usar el Sitio Web.</p>
-  <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="/hn/privacy">aquí</a>).</p>
+  <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="./privacy">aquí</a>).</p>
   <h2 class="wp-block-heading">2. Elegibilidad</h2>
   <p>2.1. Puedes usar el Sitio Web si:</p>
   <p>2.1.1. Tienes al menos 18 años;</p>
@@ -3500,7 +3500,7 @@ return [
         'footer_desc' => 'Os usuários reconhecem que investir em criptomoedas envolve riscos significativos. Os preços são extremamente voláteis e podem mudar rapidamente, levando a possíveis perdas substanciais. Recomendamos que os usuários considerem cuidadosamente sua situação financeira e tolerância ao risco antes de se envolverem em investimentos em criptomoedas. Esta plataforma não fornece aconselhamento de investimento, financeiro, jurídico, fiscal ou qualquer outra forma de aconselhamento. Qualquer informação ou análise fornecida é apenas para fins informativos e não deve ser interpretada como uma oferta ou solicitação para compra ou venda de criptomoedas. A plataforma opera em conformidade com as leis e regulamentos aplicáveis. No entanto, as regulamentações de criptomoedas podem variar por jurisdição e estão sujeitas a alterações. Os usuários são responsáveis por garantir que seu uso da plataforma esteja em conformidade com as leis e regulamentos locais. Não há garantias de lucro ou proteção contra perdas em investimentos em criptomoedas. O desempenho passado não é indicativo de resultados futuros. Os usuários devem estar cientes de que podem perder todo o capital investido. Embora nos esforcemos para fornecer uma plataforma de investimento confiável e segura, não garantimos um serviço ininterrupto e não somos responsáveis por quaisquer perdas resultantes de problemas técnicos, condições de mercado ou outros fatores fora de nosso controle.',
         'about_join_h1' => 'Junte-se a Nós',
         'about_join_desc' => 'Faça parte da nossa comunidade em crescimento! Seja você um iniciante ou um investidor experiente, a CapitureX é seu parceiro confiável para explorar o dinâmico mundo das criptomoedas. Descubra maneiras mais inteligentes e fáceis de aumentar sua riqueza com a CapitureX.',
-        'about_form_desc' => '*Ao inserir seus dados pessoais aqui e clicar no botão, você concorda e aceita a <a href="/br/privacy">Política de Privacidade</a> e os <a href="/br/terms">Termos e Condições</a> do site.<br>*Suas informações pessoais podem ser compartilhadas com terceiros que fornecem serviços de investimento, conforme previsto na <a href="/br/privacy">Política de Privacidade do site</a>.',
+        'about_form_desc' => '*Ao inserir seus dados pessoais aqui e clicar no botão, você concorda e aceita a <a href="./privacy">Política de Privacidade</a> e os <a href="./terms">Termos e Condições</a> do site.<br>*Suas informações pessoais podem ser compartilhadas com terceiros que fornecem serviços de investimento, conforme previsto na <a href="./privacy">Política de Privacidade do site</a>.',
         'about_h1_mission' => 'Nossa Missão',
         'about_mission_1_title' => 'Capacitando Investidores',
         'about_mission_1_desc' => 'Nosso objetivo é tornar os investimentos acessíveis a todos, de iniciantes a investidores experientes.',
@@ -3540,7 +3540,7 @@ return [
             <p><strong>Com quem compartilhamos informações?</strong> Podemos compartilhar suas informações com provedores de serviços terceirizados, afiliados ou parceiros comerciais para fins específicos, como análises ou marketing.</p>
             <p><strong>Como mantemos suas informações seguras?</strong> Usamos medidas técnicas e organizacionais para proteger seus dados, mas nenhum sistema é 100% seguro.</p>
             <p><strong>Quais são seus direitos?</strong> Você pode ter direitos de acessar, corrigir ou excluir suas informações pessoais, dependendo das leis aplicáveis.</p>
-            <p><strong>Como exercer seus direitos?</strong> Contate-nos em <a href="/br/contact" rel="noreferrer noopener">https://myalphaguide.com/br/contact/</a> ou por e-mail em suporte@myalphaguide.com.</p>
+            <p><strong>Como exercer seus direitos?</strong> Contate-nos em <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> ou por e-mail em suporte@myalphaguide.com.</p>
             <p id="infocollect"><strong>ÍNDICE</strong></p>
             <p><a href="#infocollect">1. QUAIS INFORMAÇÕES COLETAMOS?</a></p>
             <p><a href="#infouse">2. COMO PROCESSAMOS SUAS INFORMAÇÕES?</a></p>
@@ -3584,7 +3584,7 @@ return [
             <p><em>Podemos atualizar este aviso para cumprir as leis.</em></p>
             <p>Podemos atualizar este aviso, com alterações entrando em vigor após a publicação, e notificaremos você sobre mudanças significativas.</p>
             <p><strong>10. COMO VOCÊ PODE NOS CONTATAR SOBRE ESTE AVISO?</strong></p>
-            <p>Envie-nos um e-mail em suporte@myalphaguide.com ou visite <a href="/br/contact" rel="noreferrer noopener">https://myalphaguide.com/br/contact/</a> para perguntas sobre este aviso.</p>
+            <p>Envie-nos um e-mail em suporte@myalphaguide.com ou visite <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para perguntas sobre este aviso.</p>
         </div>',
         'terms_content' => '<div class="col-12">
     <h1 class="wp-block-heading">Termos e Condições</h1>
@@ -3593,7 +3593,7 @@ return [
     <p>Nosso e-mail: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
     <p>1.2. O Site fornece informações sobre plataformas de terceiros para investimentos (os <strong>“Serviços”</strong>).</p>
     <p>1.3. Estes termos de uso (os <strong>“Termos”</strong>) regem o uso do Site ou Serviços. Ao usar o Site, você concorda com estes Termos, que formam um acordo legalmente vinculativo. Se você discordar, deve parar de usar o Site.</p>
-    <p>Estes Termos incluem nossa Política de Privacidade, e ao concordar com estes Termos, você também aceita nossa Política de Privacidade (disponível <a href="/br/privacy">aqui</a>).</p>
+    <p>Estes Termos incluem nossa Política de Privacidade, e ao concordar com estes Termos, você também aceita nossa Política de Privacidade (disponível <a href="./privacy">aqui</a>).</p>
     <h2 class="wp-block-heading">2. Elegibilidade</h2>
     <p>2.1. Você pode usar o Site se:</p>
     <p>2.1.1. Tiver pelo menos 18 anos;</p>
@@ -3777,7 +3777,7 @@ return [
         'footer_desc' => 'Los usuarios reconocen que invertir en criptomonedas implica riesgos significativos. Los precios son extremadamente volátiles y pueden cambiar rápidamente, lo que lleva a posibles pérdidas sustanciales. Recomendamos que los usuarios consideren cuidadosamente su situación financiera y tolerancia al riesgo antes de realizar inversiones en criptomonedas. Esta plataforma no proporciona asesoramiento en inversiones, financiero, legal, fiscal ni de ningún otro tipo. Cualquier información o análisis proporcionado es solo con fines informativos y no debe interpretarse como una oferta o solicitud para la compra o venta de criptomonedas. La plataforma opera en cumplimiento de las leyes y regulaciones aplicables. Sin embargo, las regulaciones de criptomonedas pueden variar según la jurisdicción y están sujetas a cambios. Los usuarios son responsables de garantizar que su uso de la plataforma cumpla con las leyes y regulaciones locales. No hay garantías de ganancias o protección contra pérdidas en las inversiones en criptomonedas. El rendimiento pasado no es indicativo de resultados futuros. Los usuarios deben ser conscientes de que pueden perder todo su capital invertido. Aunque nos esforzamos por proporcionar una plataforma de inversión confiable y segura, no garantizamos un servicio ininterrumpido y no somos responsables de las pérdidas derivadas de problemas técnicos, condiciones del mercado u otros factores fuera de nuestro control.',
         'about_join_h1' => 'Únete a Nosotros',
         'about_join_desc' => '¡Forma parte de nuestra creciente comunidad! Ya seas principiante o un inversor experimentado, CapitureX es tu socio confiable para explorar el dinámico mundo de las criptomonedas. Descubre formas más inteligentes y fáciles de hacer crecer tu riqueza con CapitureX.',
-        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="/pe/privacy">Política de Privacidad</a> y los <a href="/pe/terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que proporcionen servicios de inversión, según lo estipulado en la <a href="/pe/privacy">Política de Privacidad del sitio web</a>.',
+        'about_form_desc' => '*Al ingresar tus datos personales aquí y hacer clic en el botón, aceptas y reconoces la <a href="./privacy">Política de Privacidad</a> y los <a href="./terms">Términos y Condiciones</a> del sitio web.<br>*Tu información personal puede ser compartida con terceros que proporcionen servicios de inversión, según lo estipulado en la <a href="./privacy">Política de Privacidad del sitio web</a>.',
         'about_h1_mission' => 'Nuestra Misión',
         'about_mission_1_title' => 'Empoderando a los Inversores',
         'about_mission_1_desc' => 'Nuestro objetivo es hacer que las inversiones sean accesibles para todos, desde principiantes hasta inversores experimentados.',
@@ -3817,7 +3817,7 @@ return [
         <p><strong>¿Con quién compartimos tu información?</strong> Podemos compartir tu información con proveedores de servicios de terceros, afiliados o socios comerciales para fines específicos, como análisis o marketing.</p>
         <p><strong>¿Cómo mantenemos tu información segura?</strong> Usamos medidas técnicas y organizativas para proteger tus datos, pero ningún sistema es 100% seguro.</p>
         <p><strong>¿Cuáles son tus derechos?</strong> Puedes tener derechos para acceder, corregir o eliminar tu información personal, dependiendo de las leyes aplicables.</p>
-        <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="/pe/contact" rel="noreferrer noopener">https://myalphaguide.com/pe/contact/</a> o por correo en support@myalphaguide.com.</p>
+        <p><strong>¿Cómo ejercer tus derechos?</strong> Contáctanos en <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> o por correo en support@myalphaguide.com.</p>
         <p id="infocollect"><strong>TABLA DE CONTENIDOS</strong></p>
         <p><a href="#infocollect">1. ¿QUÉ INFORMACIÓN RECOLECTAMOS?</a></p>
         <p><a href="#infouse">2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?</a></p>
@@ -3858,7 +3858,7 @@ return [
         <p><em>Podemos actualizar este aviso para cumplir con las leyes.</em></p>
         <p>Podemos actualizar este aviso, con cambios efectivos al publicarse, y te notificaremos sobre cambios materiales.</p>
         <p><strong>9. ¿CÓMO PUEDES CONTACTARNOS SOBRE ESTE AVISO?</strong></p>
-        <p>Envíanos un correo a support@myalphaguide.com o visita <a href="/pe/contact" rel="noreferrer noopener">https://myalphaguide.com/pe/contact/</a> para preguntas sobre este aviso.</p>
+        <p>Envíanos un correo a support@myalphaguide.com o visita <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> para preguntas sobre este aviso.</p>
     </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Términos y Condiciones</h1>
@@ -3867,7 +3867,7 @@ return [
         <p>Nuestro correo: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. El Sitio Web proporciona información sobre plataformas de terceros para inversiones (los <strong>“Servicios”</strong>).</p>
         <p>1.3. Estos términos de uso (los <strong>“Términos”</strong>) rigen tu uso del Sitio Web o los Servicios. Al usar el Sitio Web, aceptas estos Términos, que forman un acuerdo legalmente vinculante. Si no estás de acuerdo, debes dejar de usar el Sitio Web.</p>
-        <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="/pe/privacy">aquí</a>).</p>
+        <p>Estos Términos incluyen nuestra Política de Privacidad, y al aceptar estos Términos, también aceptas nuestra Política de Privacidad (disponible <a href="./privacy">aquí</a>).</p>
         <h2 class="wp-block-heading">2. Elegibilidad</h2>
         <p>2.1. Puedes usar el Sitio Web si:</p>
         <p>2.1.1. Tienes al menos 18 años;</p>
@@ -4051,7 +4051,7 @@ return [
         'footer_desc' => 'Users acknowledge that investing in cryptocurrencies involves significant risks. Prices are extremely volatile and can change rapidly, leading to potential substantial losses. We recommend that users carefully consider their financial situation and risk tolerance before engaging in cryptocurrency investments. This platform does not provide investment, financial, legal, tax, or any other form of advice. Any information or analysis provided is for informational purposes only and should not be construed as an offer or solicitation for the purchase or sale of cryptocurrencies. The platform operates in compliance with applicable laws and regulations. However, cryptocurrency regulations may vary by jurisdiction and are subject to change. Users are responsible for ensuring that their use of the platform complies with local laws and regulations. There are no guarantees of profit or protection from losses in cryptocurrency investments. Past performance is not indicative of future results. Users should be aware that they may lose all of their invested capital. While we strive to provide a reliable and secure investment platform, we do not guarantee uninterrupted service, and we are not liable for any losses resulting from technical issues, market conditions, or other factors beyond our control.',
         'about_join_h1' => 'Join Us',
         'about_join_desc' => 'Become part of our growing community! Whether you\'re a newbie or an experienced investor, CapitureX is your trusted partner when it comes to exploring the dynamic world of cryptocurrencies. Discover smarter and easier ways to grow your wealth with CapitureX.',
-        'about_form_desc' => '*By entering your personal details here and clicking the button you agree and accept the Website <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms &amp; Conditions</a>.<br>*Your personal information may be shared with third parties providing investment services as provided in the <a href="/privacy">Website privacy policy.</a>',
+        'about_form_desc' => '*By entering your personal details here and clicking the button you agree and accept the Website <a href="./privacy">Privacy Policy</a> and <a href="./terms">Terms &amp; Conditions</a>.<br>*Your personal information may be shared with third parties providing investment services as provided in the <a href="./privacy">Website privacy policy.</a>',
         'about_h1_mission' => 'Our Mission',
         'about_mission_1_title' => 'Empowering Investors',
         'about_mission_1_desc' => 'Our goal is to make investing accessible to everyone, from beginners to experienced investors.',
@@ -4091,7 +4091,7 @@ return [
                 <p><strong>Who do we share information with?</strong> We may share your information with third-party service providers, affiliates, or business partners for specific purposes, like analytics or marketing.</p>
                 <p><strong>How do we keep your information safe?</strong> We use technical and organizational measures to protect your data, but no system is 100% secure.</p>
                 <p><strong>What are your rights?</strong> You may have rights to access, correct, or delete your personal information, depending on applicable laws.</p>
-                <p><strong>How to exercise your rights?</strong> Contact us at <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> or by email at support@myalphaguide.com.</p>
+                <p><strong>How to exercise your rights?</strong> Contact us at <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> or by email at support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>TABLE OF CONTENTS</strong></p>
                 <p><a href="#infocollect">1. WHAT INFORMATION DO WE COLLECT?</a></p>
                 <p><a href="#infouse">2. HOW DO WE PROCESS YOUR INFORMATION?</a></p>
@@ -4135,7 +4135,7 @@ return [
                 <p><em>We may update this notice to comply with laws.</em></p>
                 <p>We may update this notice, with changes effective upon posting, and will notify you of material changes.</p>
                 <p><strong>10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</strong></p>
-                <p>Email us at support@myalphaguide.com or visit <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for questions about this notice.</p>
+                <p>Email us at support@myalphaguide.com or visit <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for questions about this notice.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">Terms and Conditions</h1>
@@ -4144,7 +4144,7 @@ return [
         <p>Our email: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. The Website provides information about third-party platforms for investments (the <strong>“Services”</strong>).</p>
         <p>1.3. These terms of use (the <strong>“Terms”</strong>) govern your use of the Website or Services. By using the Website, you agree to these Terms, which form a legally binding agreement. If you disagree, you must stop using the Website.</p>
-        <p>These Terms include our Privacy Policy, and by agreeing to these Terms, you also accept our Privacy Policy (available <a href="/privacy">here</a>).</p>
+        <p>These Terms include our Privacy Policy, and by agreeing to these Terms, you also accept our Privacy Policy (available <a href="./privacy">here</a>).</p>
         <h2 class="wp-block-heading">2. Eligibility</h2>
         <p>2.1. You may use the Website if you:</p>
         <p>2.1.1. Are at least 18 years old;</p>
@@ -4329,7 +4329,7 @@ return [
         'footer_desc' => 'Users acknowledge that investing in cryptocurrencies involves significant risks. Prices are extremely volatile and can change rapidly, leading to potential substantial losses. We recommend that users carefully consider their financial situation and risk tolerance before engaging in cryptocurrency investments. This platform does not provide investment, financial, legal, tax, or any other form of advice. Any information or analysis provided is for informational purposes only and should not be construed as an offer or solicitation for the purchase or sale of cryptocurrencies. The platform operates in compliance with applicable laws and regulations. However, cryptocurrency regulations may vary by jurisdiction and are subject to change. Users are responsible for ensuring that their use of the platform complies with local laws and regulations. There are no guarantees of profit or protection from losses in cryptocurrency investments. Past performance is not indicative of future results. Users should be aware that they may lose all of their invested capital. While we strive to provide a reliable and secure investment platform, we do not guarantee uninterrupted service, and we are not liable for any losses resulting from technical issues, market conditions, or other factors beyond our control.',
         'about_join_h1' => 'Join Us',
         'about_join_desc' => 'Become part of our growing community! Whether you&#8217;re a newbie or an experienced investor, CapitureX is your trusted partner when it comes to exploring the dynamic world of cryptocurrencies. Discover smarter and easier ways to grow your wealth with CapitureX.',
-        'about_form_desc' => '*By entering your personal details here and clicking the button you agree and accept the Website <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms &amp; Conditions</a>.<br>*Your personal information may be shared with third parties providing investment services as provided in the <a href="/privacy">Website privacy policy.</a>',
+        'about_form_desc' => '*By entering your personal details here and clicking the button you agree and accept the Website <a href="./privacy">Privacy Policy</a> and <a href="./terms">Terms &amp; Conditions</a>.<br>*Your personal information may be shared with third parties providing investment services as provided in the <a href="./privacy">Website privacy policy.</a>',
         'about_h1_mission' => 'Our Mission',
         'about_mission_1_title' => 'Empowering Investors',
         'about_mission_1_desc' => 'Our goal is to make investing accessible to everyone, from beginners to experienced investors.',
@@ -4369,7 +4369,7 @@ return [
 		<p><strong>Who do we share information with?</strong> We may share your information with third-party service providers, affiliates, or business partners for specific purposes, like analytics or marketing.</p>
 		<p><strong>How do we keep your information safe?</strong> We use technical and organizational measures to protect your data, but no system is 100% secure.</p>
 		<p><strong>What are your rights?</strong> You may have rights to access, correct, or delete your personal information, depending on applicable laws.</p>
-		<p><strong>How to exercise your rights?</strong> Contact us at <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> or by email at support@myalphaguide.com.</p>
+		<p><strong>How to exercise your rights?</strong> Contact us at <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> or by email at support@myalphaguide.com.</p>
 		<p id="infocollect"><strong>TABLE OF CONTENTS</strong></p>
 		<p><a href="#infocollect">1. WHAT INFORMATION DO WE COLLECT?</a></p>
 		<p><a href="#infouse">2. HOW DO WE PROCESS YOUR INFORMATION?</a></p>
@@ -4413,7 +4413,7 @@ return [
 		<p><em>We may update this notice to comply with laws.</em></p>
 		<p>We may update this notice, with changes effective upon posting, and will notify you of material changes.</p>
 		<p><strong>10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</strong></p>
-		<p>Email us at support@myalphaguide.com or visit <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for questions about this notice.</p>
+		<p>Email us at support@myalphaguide.com or visit <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> for questions about this notice.</p>
 	</div>',
         'terms_content' => '<div class="col-12">
 	<h1 class="wp-block-heading">Terms and Conditions</h1>
@@ -4422,7 +4422,7 @@ return [
 	<p>Our email: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
 	<p>1.2. The Website provides information about third-party platforms for investments (the <strong>“Services”</strong>).</p>
 	<p>1.3. These terms of use (the <strong>“Terms”</strong>) govern your use of the Website or Services. By using the Website, you agree to these Terms, which form a legally binding agreement. If you disagree, you must stop using the Website.</p>
-	<p>These Terms include our Privacy Policy, and by agreeing to these Terms, you also accept our Privacy Policy (available <a href="/privacy">here</a>).</p>
+	<p>These Terms include our Privacy Policy, and by agreeing to these Terms, you also accept our Privacy Policy (available <a href="./privacy">here</a>).</p>
 	<h2 class="wp-block-heading">2. Eligibility</h2>
 	<p>2.1. You may use the Website if you:</p>
 	<p>2.1.1. Are at least 18 years old;</p>
@@ -4607,7 +4607,7 @@ return [
         'footer_desc' => 'يدرك المستخدمون أن الاستثمار في العملات المشفرة ينطوي على مخاطر كبيرة. الأسعار متقلبة للغاية ويمكن أن تتغير بسرعة، مما يؤدي إلى خسائر جوهرية محتملة. نوصي المستخدمين بدراسة وضعهم المالي وتسامحهم للمخاطر بعناية قبل الانخراط في استثمارات العملات المشفرة. هذه المنصة لا تقدم نصائح استثمارية أو مالية أو قانونية أو ضريبية أو أي شكل آخر. أي معلومات أو تحليل مقدم هو لأغراض إعلامية فقط ولا يجب تفسيره كعرض أو طلب لشراء أو بيع العملات المشفرة. تعمل المنصة وفقًا للقوانين واللوائح المعمول بها. ومع ذلك، قد تختلف لوائح العملات المشفرة حسب الاختصاص القضائي وتخضع للتغيير. يتحمل المستخدمون مسؤولية ضمان أن استخدامهم للمنصة يتوافق مع القوانين واللوائح المحلية. لا توجد ضمانات للربح أو الحماية من الخسائر في استثمارات العملات المشفرة. الأداء السابق ليس مؤشرًا على النتائج المستقبلية. يجب على المستخدمين أن يكونوا على علم بأنهم قد يفقدون كل رأس المال المستثمر. بينما نسعى لتوفير منصة استثمار موثوقة وآمنة، لا نضمن خدمة غير منقطعة، ولا نتحمل مسؤولية أي خسائر ناتجة عن مشكلات فنية أو ظروف السوق أو عوامل أخرى خارجة عن سيطرتنا.',
         'about_join_h1' => 'انضم إلينا',
         'about_join_desc' => 'كن جزءًا من مجتمعنا النامي! سواء كنت مبتدئًا أو مستثمرًا ذا خبرة، CapitureX هو شريكك الموثوق عندما يتعلق الأمر باستكشاف عالم العملات المشفرة الديناميكي. اكتشف طرقًا أذكى وأسهل لتنمية ثروتك مع CapitureX.',
-        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="/privacy">سياسة الخصوصية</a> و <a href="/terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="/privacy">سياسة خصوصية الموقع.</a>',
+        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="./privacy">سياسة الخصوصية</a> و <a href="./terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="./privacy">سياسة خصوصية الموقع.</a>',
         'about_h1_mission' => 'مهمتنا',
         'about_mission_1_title' => 'تمكين المستثمرين',
         'about_mission_1_desc' => 'هدفنا هو جعل الاستثمار متاحًا للجميع، من المبتدئين إلى المستثمرين ذوي الخبرة.',
@@ -4647,7 +4647,7 @@ return [
                 <p><strong>مع من نشارك المعلومات؟</strong> قد نشارك معلوماتك مع مزودي خدمات طرف ثالث أو شركات تابعة أو شركاء أعمال لأغراض محددة، مثل التحليلات أو التسويق.</p>
                 <p><strong>كيف نحافظ على أمان معلوماتك؟</strong> نستخدم تدابير فنية وتنظيمية لحماية بياناتك، لكن لا يوجد نظام آمن بنسبة 100%.</p>
                 <p><strong>ما هي حقوقك؟</strong> قد تكون لديك حقوق الوصول أو التصحيح أو الحذف لمعلوماتك الشخصية، حسب القوانين المعمول بها.</p>
-                <p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
+                <p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>جدول المحتويات</strong></p>
                 <p><a href="#infocollect">1. ما هي المعلومات التي نجمعها؟</a></p>
                 <p><a href="#infouse">2. كيف نعالج معلوماتك؟</a></p>
@@ -4691,7 +4691,7 @@ return [
                 <p><em>قد نحدث هذا الإشعار للامتثال للقوانين.</em></p>
                 <p>قد نحدث هذا الإشعار، مع تغييرات فعالة عند النشر، وسنخطرك بالتغييرات المادية.</p>
                 <p><strong>10. كيف يمكنك الاتصال بنا بشأن هذا الإشعار؟</strong></p>
-                <p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
+                <p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">الشروط والأحكام</h1>
@@ -4700,7 +4700,7 @@ return [
         <p>بريدنا الإلكتروني: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. يوفر الموقع معلومات حول منصات الطرف الثالث للاستثمارات (ال<strong>«الخدمات»</strong>).</p>
         <p>1.3. تحكم شروط الاستخدام هذه (ال<strong>«الشروط»</strong>) استخدامك للموقع أو الخدمات. باستخدام الموقع، توافق على هذه الشروط، التي تشكل اتفاقًا قانونيًا ملزمًا. إذا كنت غير موافق، يجب عليك التوقف عن استخدام الموقع.</p>
-        <p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="/privacy">هنا</a>).</p>
+        <p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="./privacy">هنا</a>).</p>
         <h2 class="wp-block-heading">2. الأهلية</h2>
         <p>2.1. يمكنك استخدام الموقع إذا كنت:</p>
         <p>2.1.1. على الأقل 18 عامًا;</p>
@@ -4885,7 +4885,7 @@ return [
         'footer_desc' => 'يدرك المستخدمون أن الاستثمار في العملات المشفرة ينطوي على مخاطر كبيرة. الأسعار متقلبة للغاية ويمكن أن تتغير بسرعة، مما يؤدي إلى خسائر جوهرية محتملة. نوصي المستخدمين بدراسة وضعهم المالي وتسامحهم للمخاطر بعناية قبل الانخراط في استثمارات العملات المشفرة. هذه المنصة لا تقدم نصائح استثمارية أو مالية أو قانونية أو ضريبية أو أي شكل آخر. أي معلومات أو تحليل مقدم هو لأغراض إعلامية فقط ولا يجب تفسيره كعرض أو طلب لشراء أو بيع العملات المشفرة. تعمل المنصة وفقًا للقوانين واللوائح المعمول بها. ومع ذلك، قد تختلف لوائح العملات المشفرة حسب الاختصاص القضائي وتخضع للتغيير. يتحمل المستخمرون مسؤولية ضمان أن استخدامهم للمنصة يتوافق مع القوانين واللوائح المحلية. لا توجد ضمانات للربح أو الحماية من الخسائر في استثمارات العملات المشفرة. الأداء السابق ليس مؤشرًا على النتائج المستقبلية. يجب على المستخمرين أن يكونوا على علم بأنهم قد يفقدون كل رأس المال المستثمر. بينما نسعى لتوفير منصة استثمار موثوقة وآمنة، لا نضمن خدمة غير منقطعة، ولا نتحمل مسؤولية أي خسائر ناتجة عن مشكلات فنية أو ظروف السوق أو عوامل أخرى خارجة عن سيطرتنا.',
         'about_join_h1' => 'انضم إلينا',
         'about_join_desc' => 'كن جزءًا من مجتمعنا النامي! سواء كنت مبتدئًا أو مستثمرًا ذا خبرة، CapitureX هو شريكك الموثوق عندما يتعلق الأمر باستكشاف عالم العملات المشفرة الديناميكي. اكتشف طرقًا أذكى وأسهل لتنمية ثروتك مع CapitureX.',
-        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="/privacy">سياسة الخصوصية</a> و <a href="/terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="/privacy">سياسة خصوصية الموقع.</a>',
+        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="./privacy">سياسة الخصوصية</a> و <a href="./terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="./privacy">سياسة خصوصية الموقع.</a>',
         'about_h1_mission' => 'مهمتنا',
         'about_mission_1_title' => 'تمكين المستثمرين',
         'about_mission_1_desc' => 'هدفنا هو جعل الاستثمار متاحًا للجميع، من المبتدئين إلى المستثمرين ذوي الخبرة.',
@@ -4925,7 +4925,7 @@ return [
                 <p><strong>مع من نشارك المعلومات؟</strong> قد نشارك معلوماتك مع مزودي خدمات طرف ثالث أو شركات تابعة أو شركاء أعمال لأغراض محددة، مثل التحليلات أو التسويق.</p>
                 <p><strong>كيف نحافظ على أمان معلوماتك؟</strong> نستخدم تدابير فنية وتنظيمية لحماية بياناتك، لكن لا يوجد نظام آمن بنسبة 100%.</p>
                 <p><strong>ما هي حقوقك؟</strong> قد تكون لديك حقوق الوصول أو التصحيح أو الحذف لمعلوماتك الشخصية، حسب القوانين المعمول بها.</p>
-                <p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
+                <p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
                 <p id="infocollect"><strong>جدول المحتويات</strong></p>
                 <p><a href="#infocollect">1. ما هي المعلومات التي نجمعها؟</a></p>
                 <p><a href="#infouse">2. كيف نعالج معلوماتك؟</a></p>
@@ -4969,7 +4969,7 @@ return [
                 <p><em>قد نحدث هذا الإشعار للامتثال للقوانين.</em></p>
                 <p>قد نحدث هذا الإشعار، مع تغييرات فعالة عند النشر، وسنخطرك بالتغييرات المادية.</p>
                 <p><strong>10. كيف يمكنك الاتصال بنا بشأن هذا الإشعار؟</strong></p>
-                <p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
+                <p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
             </div>',
         'terms_content' => '<div class="col-12">
         <h1 class="wp-block-heading">الشروط والأحكام</h1>
@@ -4978,7 +4978,7 @@ return [
         <p>بريدنا الإلكتروني: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
         <p>1.2. يوفر الموقع معلومات حول منصات الطرف الثالث للاستثمارات (ال<strong>«الخدمات»</strong>).</p>
         <p>1.3. تحكم شروط الاستخدام هذه (ال<strong>«الشروط»</strong>) استخدامك للموقع أو الخدمات. باستخدام الموقع، توافق على هذه الشروط، التي تشكل اتفاقًا قانونيًا ملزمًا. إذا كنت غير موافق، يجب عليك التوقف عن استخدام الموقع.</p>
-        <p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="/privacy">هنا</a>).</p>
+        <p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="./privacy">هنا</a>).</p>
         <h2 class="wp-block-heading">2. الأهلية</h2>
         <p>2.1. يمكنك استخدام الموقع إذا كنت:</p>
         <p>2.1.1. على الأقل 18 عامًا;</p>
@@ -5163,7 +5163,7 @@ return [
         'footer_desc' => 'يدرك المستخدمون أن الاستثمار في العملات المشفرة ينطوي على مخاطر كبيرة. الأسعار متقلبة للغاية ويمكن أن تتغير بسرعة، مما يؤدي إلى خسائر جوهرية محتملة. نوصي المستخدمين بدراسة وضعهم المالي وتسامحهم للمخاطر بعناية قبل الانخراط في استثمارات العملات المشفرة. هذه المنصة لا تقدم نصائح استثمارية أو مالية أو قانونية أو ضريبية أو أي شكل آخر. أي معلومات أو تحليل مقدم هو لأغراض إعلامية فقط ولا يجب تفسيره كعرض أو طلب لشراء أو بيع العملات المشفرة. تعمل المنصة وفقًا للقوانين واللوائح المعمول بها. ومع ذلك، قد تختلف لوائح العملات المشفرة حسب الاختصاص القضائي وتخضع للتغيير. يتحمل المستخمرون مسؤولية ضمان أن استخدامهم للمنصة يتوافق مع القوانين واللوائح المحلية. لا توجد ضمانات للربح أو الحماية من الخسائر في استثمارات العملات المشفرة. الأداء السابق ليس مؤشرًا على النتائج المستقبلية. يجب على المستخمرين أن يكونوا على علم بأنهم قد يفقدون كل رأس المال المستثمر. بينما نسعى لتوفير منصة استثمار موثوقة وآمنة، لا نضمن خدمة غير منقطعة، ولا نتحمل مسؤولية أي خسائر ناتجة عن مشكلات فنية أو ظروف السوق أو عوامل أخرى خارجة عن سيطرتنا.',
         'about_join_h1' => 'انضم إلينا',
         'about_join_desc' => 'كن جزءًا من مجتمعنا النامي! سواء كنت مبتدئًا أو مستثمرًا ذا خبرة، CapitureX هو شريكك الموثوق عندما يتعلق الأمر باستكشاف عالم العملات المشفرة الديناميكي. اكتشف طرقًا أذكى وأسهل لتنمية ثروتك مع CapitureX.',
-        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="/privacy">سياسة الخصوصية</a> و <a href="/terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="/privacy">سياسة خصوصية الموقع.</a>',
+        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="./privacy">سياسة الخصوصية</a> و <a href="./terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="./privacy">سياسة خصوصية الموقع.</a>',
         'about_h1_mission' => 'مهمتنا',
         'about_mission_1_title' => 'تمكين المستثمرين',
         'about_mission_1_desc' => 'هدفنا هو جعل الاستثمار متاحًا للجميع، من المبتدئين إلى المستثمرين ذوي الخبرة.',
@@ -5203,7 +5203,7 @@ return [
 		<p><strong>مع من نشارك المعلومات؟</strong> قد نشارك معلوماتك مع مزودي خدمات طرف ثالث أو شركات تابعة أو شركاء أعمال لأغراض محددة، مثل التحليلات أو التسويق.</p>
 		<p><strong>كيف نحافظ على أمان معلوماتك؟</strong> نستخدم تدابير فنية وتنظيمية لحماية بياناتك، لكن لا يوجد نظام آمن بنسبة 100%.</p>
 		<p><strong>ما هي حقوقك؟</strong> قد تكون لديك حقوق الوصول أو التصحيح أو الحذف لمعلوماتك الشخصية، حسب القوانين المعمول بها.</p>
-		<p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
+		<p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
 		<p id="infocollect"><strong>جدول المحتويات</strong></p>
 		<p><a href="#infocollect">1. ما هي المعلومات التي نجمعها؟</a></p>
 		<p><a href="#infouse">2. كيف نعالج معلوماتك؟</a></p>
@@ -5247,7 +5247,7 @@ return [
 		<p><em>قد نحدث هذا الإشعار للامتثال للقوانين.</em></p>
 		<p>قد نحدث هذا الإشعار، مع تغييرات فعالة عند النشر، وسنخطرك بالتغييرات المادية.</p>
 		<p><strong>10. كيف يمكنك الاتصال بنا بشأن هذا الإشعار؟</strong></p>
-		<p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
+		<p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
 	</div>',
         'terms_content' => '<div class="col-12">
 	<h1 class="wp-block-heading">الشروط والأحكام</h1>
@@ -5256,7 +5256,7 @@ return [
 	<p>بريدنا الإلكتروني: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
 	<p>1.2. يوفر الموقع معلومات حول منصات الطرف الثالث للاستثمارات (ال<strong>«الخدمات»</strong>).</p>
 	<p>1.3. تحكم شروط الاستخدام هذه (ال<strong>«الشروط»</strong>) استخدامك للموقع أو الخدمات. باستخدام الموقع، توافق على هذه الشروط، التي تشكل اتفاقًا قانونيًا ملزمًا. إذا كنت غير موافق، يجب عليك التوقف عن استخدام الموقع.</p>
-	<p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="/privacy">هنا</a>).</p>
+	<p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="./privacy">هنا</a>).</p>
 	<h2 class="wp-block-heading">2. الأهلية</h2>
 	<p>2.1. يمكنك استخدام الموقع إذا كنت:</p>
 	<p>2.1.1. على الأقل 18 عامًا;</p>
@@ -5441,7 +5441,7 @@ return [
         'footer_desc' => 'يدرك المستخدمون أن الاستثمار في العملات المشفرة ينطوي على مخاطر كبيرة. الأسعار متقلبة للغاية ويمكن أن تتغير بسرعة، مما يؤدي إلى خسائر جوهرية محتملة. نوصي المستخدمين بدراسة وضعهم المالي وتسامحهم للمخاطر بعناية قبل الانخراط في استثمارات العملات المشفرة. هذه المنصة لا تقدم نصائح استثمارية أو مالية أو قانونية أو ضريبية أو أي شكل آخر. أي معلومات أو تحليل مقدم هو لأغراض إعلامية فقط ولا يجب تفسيره كعرض أو طلب لشراء أو بيع العملات المشفرة. تعمل المنصة وفقًا للقوانين واللوائح المعمول بها. ومع ذلك، قد تختلف لوائح العملات المشفرة حسب الاختصاص القضائي وتخضع للتغيير. يتحمل المستخمرون مسؤولية ضمان أن استخدامهم للمنصة يتوافق مع القوانين واللوائح المحلية. لا توجد ضمانات للربح أو الحماية من الخسائر في استثمارات العملات المشفرة. الأداء السابق ليس مؤشرًا على النتائج المستقبلية. يجب على المستخمرين أن يكونوا على علم بأنهم قد يفقدون كل رأس المال المستثمر. بينما نسعى لتوفير منصة استثمار موثوقة وآمنة، لا نضمن خدمة غير منقطعة، ولا نتحمل مسؤولية أي خسائر ناتجة عن مشكلات فنية أو ظروف السوق أو عوامل أخرى خارجة عن سيطرتنا.',
         'about_join_h1' => 'انضم إلينا',
         'about_join_desc' => 'كن جزءًا من مجتمعنا النامي! سواء كنت مبتدئًا أو مستثمرًا ذا خبرة، CapitureX هو شريكك الموثوق عندما يتعلق الأمر باستكشاف عالم العملات المشفرة الديناميكي. اكتشف طرقًا أذكى وأسهل لتنمية ثروتك مع CapitureX.',
-        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="/privacy">سياسة الخصوصية</a> و <a href="/terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="/privacy">سياسة خصوصية الموقع.</a>',
+        'about_form_desc' => '*بإدخال بياناتك الشخصية هنا والنقر على الزر، توافق وتقبل <a href="./privacy">سياسة الخصوصية</a> و <a href="./terms">الشروط والأحكام</a> للموقع.<br>*قد تتم مشاركة بياناتك الشخصية مع أطراف ثالثة تقدم خدمات استثمارية كما هو منصوص عليه في <a href="./privacy">سياسة خصوصية الموقع.</a>',
         'about_h1_mission' => 'مهمتنا',
         'about_mission_1_title' => 'تمكين المستثمرين',
         'about_mission_1_desc' => 'هدفنا هو جعل الاستثمار متاحًا للجميع، من المبتدئين إلى المستثمرين ذوي الخبرة.',
@@ -5481,7 +5481,7 @@ return [
 		<p><strong>مع من نشارك المعلومات؟</strong> قد نشارك معلوماتك مع مزودي خدمات طرف ثالث أو شركات تابعة أو شركاء أعمال لأغراض محددة، مثل التحليلات أو التسويق.</p>
 		<p><strong>كيف نحافظ على أمان معلوماتك؟</strong> نستخدم تدابير فنية وتنظيمية لحماية بياناتك، لكن لا يوجد نظام آمن بنسبة 100%.</p>
 		<p><strong>ما هي حقوقك؟</strong> قد تكون لديك حقوق الوصول أو التصحيح أو الحذف لمعلوماتك الشخصية، حسب القوانين المعمول بها.</p>
-		<p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
+		<p><strong>كيف تمارس حقوقك؟</strong> اتصل بنا على <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> أو بالبريد الإلكتروني على support@myalphaguide.com.</p>
 		<p id="infocollect"><strong>جدول المحتويات</strong></p>
 		<p><a href="#infocollect">1. ما هي المعلومات التي نجمعها؟</a></p>
 		<p><a href="#infouse">2. كيف نعالج معلوماتك؟</a></p>
@@ -5525,7 +5525,7 @@ return [
 		<p><em>قد نحدث هذا الإشعار للامتثال للقوانين.</em></p>
 		<p>قد نحدث هذا الإشعار، مع تغييرات فعالة عند النشر، وسنخطرك بالتغييرات المادية.</p>
 		<p><strong>10. كيف يمكنك الاتصال بنا بشأن هذا الإشعار؟</strong></p>
-		<p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="/contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
+		<p>أرسل لنا بريدًا إلكترونيًا على support@myalphaguide.com أو قم بزيارة <a href="./contact" rel="noreferrer noopener">https://myalphaguide.com/contact/</a> للأسئلة حول هذا الإشعار.</p>
 	</div>',
         'terms_content' => '<div class="col-12">
 	<h1 class="wp-block-heading">الشروط والأحكام</h1>
@@ -5534,7 +5534,7 @@ return [
 	<p>بريدنا الإلكتروني: <a href="mailto:info@myalphaguide.com">info@myalphaguide.com</a></p>
 	<p>1.2. يوفر الموقع معلومات حول منصات الطرف الثالث للاستثمارات (ال<strong>«الخدمات»</strong>).</p>
 	<p>1.3. تحكم شروط الاستخدام هذه (ال<strong>«الشروط»</strong>) استخدامك للموقع أو الخدمات. باستخدام الموقع، توافق على هذه الشروط، التي تشكل اتفاقًا قانونيًا ملزمًا. إذا كنت غير موافق، يجب عليك التوقف عن استخدام الموقع.</p>
-	<p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="/privacy">هنا</a>).</p>
+	<p>تشمل هذه الشروط سياسة الخصوصية الخاصة بنا، وبموافقتك على هذه الشروط، تقبل أيضًا سياسة الخصوصية الخاصة بنا (متاحة <a href="./privacy">هنا</a>).</p>
 	<h2 class="wp-block-heading">2. الأهلية</h2>
 	<p>2.1. يمكنك استخدام الموقع إذا كنت:</p>
 	<p>2.1.1. على الأقل 18 عامًا;</p>
